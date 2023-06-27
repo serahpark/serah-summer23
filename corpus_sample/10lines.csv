@@ -1,4 +1,4 @@
-,from_name,from_address,subject,body_text
+,from_name,from_address,subject,body_text,name,office_sought,party_affiliation,office_level,district_type,final_website,crawl_date,source,state,type,subtype,date,hour,day,uid_email,uid_inbox,incumbent
 0,Team Do(u)g,contact@dougjones.com,PSA: This email contains dog photos & puns,"Hey there, friend–
 Doug’s very best friends – Scout and Dakota Jones – are taking their begging from the kitchen table and bringing their pleas to the people. They’ve been promised a trip to Washington, DC if their dad wins his election in November, and they’re asking you to do everything you can to make sure that happens.
 In July, almost 60,000 of you pitched in to send Scout and Dakota to Washington (and yes, to re-elect Doug Jones) – and they are thrilled. So thrilled that they wanted to thank you by introducing you to some of their best friends working on the campaign here in Alabama – they heard you like that sort of thing.
@@ -12,7 +12,7 @@ This message was sent to: [[EMAIL_REDACTED]].
 Contributions or gifts to Doug Jones for Senate Committee are not deductible for federal income tax purposes.
 An individual or non-multicandidate federal PAC may contribute a maximum of $2,800 per election. A multi-candidate Federal PAC may contribute a maximum of $5,000 per election. The 2020 Primary and 2020 General elections are separate elections. Contributions from corporations, labor organization treasury funds, foreign nationals, and federal government contractors are prohibited. Contributions must be made from the contributor’s own funds, not those of another and contributors may not be reimbursed by any other person or entity.
 Federal law requires us to use our best efforts to collect and report the name, mailing address, occupation and name of employer of individuals whose contributions exceed $200 in an election cycle.
-We believe that emails are a crucial way for our campaign to stay in touch with supporters like you. However, if you’d prefer to receive fewer emails, you can click here. If you would like to unsubscribe, click here. Thanks for your support!"
+We believe that emails are a crucial way for our campaign to stay in touch with supporters like you. However, if you’d prefer to receive fewer emails, you can click here. If you would like to unsubscribe, click here. Thanks for your support!",Lulu Seikaly,U.S. House Texas District 3,Democratic Party,Federal,Congress,https://lulufortexas.com/,12-02-2019,ballotpedia-campaign,,,,2020-08-03,17,Mon,ff4ae5ee67b88d4fd227f91416d95a17,c56b70f02a824e7d275717512bf4d5a9,No
 1,McConnell - Kentucky TANTRUM,admin@turnoutpac.org,Mitch McConnell EXPLODED after he read THIS: [HE'S OBSESSED >],"He saw the latest poll of his Senate race -- he's clinging to a FRAGILE LEAD
 The Progressive Turnout Project is proudly dedicated to doing what we do best -- connecting with voters one on one to increase Democratic voter turnout. If you'd like to receive fewer emails or unsubscribe,  click here >>
 Mitch McConnell is throwing a TANTRUM:
@@ -59,7 +59,7 @@ Progressive Turnout Project
 P.O. Box 617614
 Chicago, IL 60661
 Paid for by Progressive Turnout Project and not authorized by any candidate or candidate's committee.
-Donate to Progressive Turnout Project →"
+Donate to Progressive Turnout Project →",Marie Newman,U.S. House Illinois District 3,Democratic Party,Federal,Congress,www.marienewmanforcongress.com,12-02-2019,ballotpedia-campaign,,,,2020-08-06,21,Thu,42b6775ac5aaba01687bc7cd547475d9,c75fa88b2ff5a4ce066fbb306b4f3db1,No
 2,Nick Merlino,campaign@siegelfortexas.org,Almost there,"Friends — I have a meeting with Mike in an hour to tell him how much we raised. I’d really like to tell him that we’ve hit our goal — but I just can’t do that yet.
 At this point, we’re about $2,254 away from our End-of-Month goal. So, I’m turning to you to help close the money gap today before I meet with Mike. Can I count on you to chip in a quick triple-matched donation to help us flip this battleground district?
 If you've saved your payment information with ActBlue Express, your donation will go through immediately:
@@ -88,7 +88,7 @@ Paid for by Mike Siegel for Congress
 Mike Siegel for Congress
 PO Box 2409
 Austin, Texas 78701
-United States"
+United States",Mike Siegel,U.S. House Texas District 10,Democratic Party,Federal,Congress,siegelfortexas.org,12-02-2019,ballotpedia-campaign,,,,2020-08-31,14,Mon,c5df6c0a1fd84c3cda5a42cf6366d6f7,ac99f890fa5b233961c89d7d8efb22da,No
 3,Sign On✏️(via everysinglevote.com),team@everysinglevote.com,close the inequality gap,"Every. Single. Vote. is a non-profit organization that will fund vote-by-mail ballot propositions throughout the country. You can support us by going to [[URL REDACTED]] You can also unsubscribe at any time.
 A recent report showed that the bottom 90% of earners in America have lost $50 trillion to the top 1% since 1975.
 Much like voting rights have been chipped away at, so too have economic rights.
@@ -102,7 +102,7 @@ Every. Single. Vote.
 2120 University Ave.
 Berkeley, CA 94704
 United States
-Paid for by Every. Single. Vote."
+Paid for by Every. Single. Vote.",Evelyn Farkas,U.S. House New York District 17,Democratic Party,Federal,Congress,https://evelynforny.com/,12-02-2019,ballotpedia-campaign,,,,2020-10-07,20,Wed,1530a255503c4d3840dc8e8043cdc53d,c1204b6c48beb8bf48e5638afd08d30d,No
 4,Repro Rights Alert via Team Moore,info@nyanzadavismoore.com,71% of Americans,"​
 ​
 ​
@@ -121,7 +121,7 @@ Friends of Nyanza Davis Moore
 11601 Shadow Creek Parkway, #111-210
 Pearland, TX 77584
 United States
-If you believe you received this message in error or wish to no longer receive email from us, please unsubscribe."
+If you believe you received this message in error or wish to no longer receive email from us, please unsubscribe.",Nyanza Moore,U.S. House Texas District 22,Democratic Party,Federal,Congress,https://www.nyanzadavismoore.com/,12-02-2019,ballotpedia-campaign,,,,2020-01-28,16,Tue,f6f4dd586797604aaee9856878debf8f,aaa84cf3e23358ce2ebe0da761163285,No
 5,Mitch McConnell,news@libertybell.com,Here’s the truth,"Not interested? Unsubscribe Here
 Hi there, Fellow Conservative,
 From the moment President Trump was elected, Democrats have been clear about their intentions. They want to take back the White House, grow their Majority in the House, retake the Senate, and NOW reshape the Supreme Court for generations to come to push their liberal agenda.
@@ -152,7 +152,7 @@ Contributions to the NRSC are not deductible as charitable contributions for fed
 Freedom Corps, LLC
 16192 Coastal Hwy
 Lewes, DE 19958
-To opt-out of email sponsored by [[URL REDACTED]], Please Click Here"
+To opt-out of email sponsored by [[URL REDACTED]], Please Click Here",Tea Party PAC,,,,,https://teapartypac.org/,12-02-2019,orgs,,Super PAC,,2020-10-07,17,Wed,3822664ff1ab7e091e05e60adf6213f3,a29669159cad2526ebfc10718b6b3eaf,
 6,NRSC Polling,conservatives@nrsc.org,Poll closes at midnight,"Are you still planning to support President Trump and his allies in 2020? Please take 15 seconds and respond before the poll closes at midnight!
 If you would prefer not to receive future emails from the NRSC, visit here.
 Friend,
@@ -173,7 +173,7 @@ This email was sent to: [[EMAIL_REDACTED]]
 NRSC, 425 2nd Street NE, Washington D.C. 20002
 The NRSC is the sole national committee dedicated to strengthening our Republican Senate majority. We believe that emails are a vital way for us to communicate with supporters like you through breaking news alerts on issues and events critical to the future of our country and our Republican Senate majority. This committee is 100% committed to defeating all Democrat Senate candidates this cycle, but we rely on the generosity of supporters like you. 99% of the NRSC’s donations come from small donations from our grassroots supporters.
 This message reflects our committee’s views and opinions. You are receiving this email because you signed up as a member of our online grassroots community. If you would like to make a contribution, please visit our website here. While it is more cost-effective for our committee and our Senate campaigns to receive donations online, we do accept donations through mail. If you would prefer to mail in your donation, you can print off our donation form here and send it to our committee.
-If you would prefer not to receive future emails from the NRSC, visit here. You can also view our Privacy Policy here. We thank you for your continued support this cycle."
+If you would prefer not to receive future emails from the NRSC, visit here. You can also view our Privacy Policy here. We thank you for your continued support this cycle.",National Republican Senatorial Committee,,Republican Party,,,https://www.nrsc.org/,12-02-2019,orgs,,Political Committee,,2020-04-04,20,Sat,d4d966df1601010ff27fb1f0fe718b04,d12baaed0e92cbe8563323d3ec3609cb,
 7,TOTAL MELTDOWN [Brady PAC],info@bradypac.org,Lindsey Graham is SHAKING!!,"Lindsey Graham is TERRIFIED of grassroots supporters turning against him.
 WOW. LINDSEY GRAHAM IS SHAKING ↓↓↓
 I'm being killed financially. This money is because they hate my guts.
@@ -206,7 +206,7 @@ From the entire Brady PAC team, thank you for all you do!
 PAID FOR BY BRADY PAC ([[URL REDACTED]]) AND NOT AUTHORIZED BY ANY CANDIDATE OR CANDIDATE'S COMMITTEE.
 BRADY PAC
 918 Pennsylvania Ave SE
-Washington, DC 20003"
+Washington, DC 20003",Elect Democratic Women,,,,,https://electdemocraticwomen.org/,12-02-2019,orgs,,Leadership/Single-issue PAC,Democratic/Liberal PAC,2020-09-28,16,Mon,7f028631fc3c375a3aa0e4d43848fa60,f79a16d5f707af05bf8de56de6cb38fa,
 8,EMILY's List,information@emilyslist.org,The EMILY's List Senate Digest,"This email is long, but full of good information about our plan to flip the Senate. Be sure to read until the end!
 Hi there,
 These numbers are REALLY exciting >>
@@ -228,7 +228,7 @@ the EMILY's List team
 Paid for by EMILY's List [[URL REDACTED]] and not authorized by any candidate or candidate's committee.
 1800 M Street NW, Suite 375N, Washington, DC 20036
 Thank you for being a supporter of EMILY's List. This email was sent to: [[EMAIL_REDACTED]]. Inbox overcrowded? Sign up to get less email here. We'd hate to see you go, but if you want to stop receiving all email, unsubscribe here. Have a question? Feel free to drop us a line at [[URL REDACTED]] or simply reply to this email.
-Contributions or gifts to EMILY's List or endorsed candidates are not tax deductible."
+Contributions or gifts to EMILY's List or endorsed candidates are not tax deductible.",EMILY's List,,,,,https://www.emilyslist.org/,12-02-2019,orgs,,Leadership/Single-issue PAC,Women's Issues PAC,2020-01-17,15,Fri,0b16eaeccd614e3e5e5e639e026b839c,8fd6c2f48fdad98efc62db1bc010c5f0,
 9,MarkWarnerVA.com,info@markwarnerva.com,"just 17,000 votes","Mark Warner for Virginia
 The Trump campaign and the GOP are making huge investments to turn Virginia red on November 3rd. Team Warner is taking this seriously -- we can't afford to take anything for granted.
 Mark Warner won his Senate election by less than 1% in 2014.
@@ -244,4 +244,4 @@ Friends of Mark Warner
 1490-5A Quarterpath Road #213
 Williamsburg, VA 23185
 Unsubscribe
-Paid for by Friends of Mark Warner"
+Paid for by Friends of Mark Warner",Gerald Edward Connolly,U.S. House Virginia District 11,Democratic Party,Federal,Congress,https://gerryconnolly.com/,05-25-2020,ballotpedia-campaign,,,,2020-10-24,18,Sat,6f86b29df9c7fc99b5adda68a44be0d2,ed020ae27fc2b63ddd3d3b3805aa7fa5,Yes
