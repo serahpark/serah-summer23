@@ -6,9 +6,9 @@ from spacy.language import Language
 print("imported modules")
 
 # Opening the pre-processed corpus data
-with open("0626_dictionary", "rb") as d:
+with open("pickle/0626_dictionary", "rb") as d:
     dictionary = pickle.load(d)   
-with open("0626_corpus", "rb") as c:
+with open("pickle/0626_corpus", "rb") as c:
     corpus = pickle.load(c)
 print("unpickled corpus and dictionary files")
 
