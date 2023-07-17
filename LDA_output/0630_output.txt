@@ -1,0 +1,200 @@
+TOPIC 0:
+0.034*"covid-19" + 0.025*"pandemic" + 0.023*"provide" + 0.018*"continue" + 0.017*"work" + 0.017*"include" + 0.013*"school" + 0.012*"wear" + 0.011*"[[url redacted" + 0.010*"the coronavirus" + 0.010*"business" + 0.009*"stay" + 0.009*"people" + 0.009*"reopen" + 0.008*"home" + 0.008*"available" + 0.008*"open" + 0.008*"student" + 0.007*"require" + 0.007*"find"
+TOPIC 1:
+0.113*"the supreme court" + 0.066*"americans" + 0.050*"million" + 0.029*"fill" + 0.028*"the affordable care act" + 0.027*"deserve" + 0.027*"protect" + 0.024*"block" + 0.023*"the court" + 0.022*"nominate" + 0.022*"health care" + 0.019*"stop" + 0.017*"appoint" + 0.016*"fight" + 0.016*"away" + 0.014*"try" + 0.014*"pack" + 0.013*"lose" + 0.013*"confirm" + 0.012*"the american people"
+TOPIC 2:
+0.231*"vote" + 0.152*"mail" + 0.098*"pass" + 0.033*"voting" + 0.015*"voter" + 0.015*"safely" + 0.013*"republicans" + 0.013*"know" + 0.011*"november" + 0.011*"expand" + 0.010*"force" + 0.010*"bill" + 0.010*"suppress" + 0.010*"trump" + 0.009*"democrats" + 0.008*"the bill" + 0.008*"cast" + 0.008*"block" + 0.008*"nationwide" + 0.008*"sponsor"
+TOPIC 3:
+0.078*"georgia" + 0.046*"the senate" + 0.035*"flip" + 0.035*"friend" + 0.033*"democrats" + 0.031*"win" + 0.020*"this email list" + 0.020*"run" + 0.019*"blue" + 0.018*"fight" + 0.017*"right" + 0.016*"this email" + 0.016*"neck" + 0.014*"this race" + 0.013*"this seat" + 0.013*"provide" + 0.012*"elect" + 0.012*"title" + 0.011*"spend" + 0.010*"save"
+TOPIC 4:
+0.043*"win" + 0.042*"our country" + 0.040*"democrats" + 0.034*"this election" + 0.033*"donald trump" + 0.028*"the white house" + 0.025*"elect" + 0.022*"right" + 0.020*"our nation" + 0.019*"know" + 0.018*"the future" + 0.017*"stake" + 0.016*"fight" + 0.016*"november" + 0.015*"america" + 0.014*"turn" + 0.013*"this country" + 0.013*"today" + 0.013*"leave" + 0.011*"our democracy"
+TOPIC 5:
+0.251*"congress" + 0.053*"run" + 0.029*"fight" + 0.017*"today" + 0.017*"take" + 0.016*"represent" + 0.014*"win" + 0.014*"washington" + 0.014*"our campaign" + 0.012*"chip" + 0.012*"know" + 0.011*"your support" + 0.010*"congress p.o. box" + 0.010*"count" + 0.010*"a contribution" + 0.009*"grow" + 0.009*"corporate pac money" + 0.008*"your help" + 0.008*"pitch" + 0.008*"make"
+TOPIC 6:
+0.234*"mitch mcconnell" + 0.115*"mcconnell" + 0.058*"the senate" + 0.055*"defeat" + 0.044*"amy mcgrath" + 0.030*"republicans" + 0.028*"kentucky" + 0.027*"mitch" + 0.019*"replace" + 0.014*"beat" + 0.013*"the poll" + 0.013*"win" + 0.012*"a vote" + 0.011*"right" + 0.011*"flip" + 0.011*"chip" + 0.010*"lose" + 0.008*"amy" + 0.008*"run" + 0.007*"another amount"
+TOPIC 7:
+0.056*"chip" + 0.056*"elect" + 0.040*"progressives" + 0.023*"our work" + 0.023*"pass" + 0.023*"the progressive caucus" + 0.022*"few email" + 0.022*"trump" + 0.019*"raise" + 0.019*"congress" + 0.017*"work family" + 0.016*"the minimum wage" + 0.016*"authorized" + 0.015*"a part" + 0.015*"progressive caucus" + 0.015*"any candidate" + 0.015*"congressional progressive caucus pac" + 0.014*"candidate’s committee" + 0.014*"bernie sanders" + 0.013*"republicans"
+TOPIC 8:
+0.052*"high" + 0.045*"the stake" + 0.045*"woman" + 0.045*"elect" + 0.038*"our effort" + 0.033*"congress" + 0.032*"few email" + 0.028*"today" + 0.022*"this message" + 0.022*"our email" + 0.018*"hillary clinton" + 0.016*"rapidly" + 0.016*"let" + 0.015*"go" + 0.015*"donald trump" + 0.015*"the way" + 0.015*"protect" + 0.014*"finally" + 0.014*"away" + 0.014*"every step"
+TOPIC 9:
+0.269*"trump" + 0.052*"donald trump" + 0.046*"florida" + 0.045*"win" + 0.039*"biden" + 0.031*"joe biden" + 0.025*"the election" + 0.024*"lose" + 0.022*"defeat" + 0.022*"democrats" + 0.021*"the electoral college" + 0.015*"turn" + 0.013*"november" + 0.012*"go" + 0.011*"president" + 0.011*"authorize" + 0.010*"steal" + 0.010*"beat" + 0.009*"lie" + 0.009*"let"
+TOPIC 10:
+0.142*"yes" + 0.085*"respond" + 0.053*"approve" + 0.039*"your response" + 0.039*"poll" + 0.032*"this poll" + 0.029*"no >> unsure" + 0.029*"know" + 0.026*"donald trump" + 0.022*"conduct" + 0.021*"open" + 0.020*"this email" + 0.019*"unsure" + 0.019*"represent" + 0.019*"think" + 0.018*"submit" + 0.017*"your input" + 0.016*"register" + 0.016*"30 minute" + 0.015*"select"
+TOPIC 11:
+0.343*"add" + 0.271*"your name" + 0.056*"my name" + 0.017*"agree" + 0.017*"the list" + 0.017*"demand" + 0.016*"join" + 0.014*"sign" + 0.012*"act" + 0.012*"sponsor" + 0.011*"stand" + 0.009*"our petition" + 0.009*"americans" + 0.008*"let" + 0.006*"deliver" + 0.006*"tell" + 0.005*"quickly" + 0.005*"prove" + 0.005*"your voice" + 0.005*"thousand"
+TOPIC 12:
+0.480*"think" + 0.135*"tell" + 0.080*"wrong" + 0.051*"no one" + 0.035*"moment" + 0.033*"lose" + 0.025*"worth" + 0.024*"care" + 0.022*"believe" + 0.016*"deal" + 0.014*"prove" + 0.013*"away" + 0.013*"refuse" + 0.012*"late" + 0.007*"progressives" + 0.006*"drown" + 0.004*"money" + 0.004*"well" + 0.003*"remember" + 0.003*"suffer"
+TOPIC 13:
+0.059*"mark" + 0.040*"learn" + 0.031*"content" + 0.028*"base" + 0.026*"alert" + 0.024*"special" + 0.023*"endorse" + 0.022*"read" + 0.021*"website" + 0.020*"the people" + 0.020*"publish" + 0.020*"right" + 0.019*"take" + 0.019*"official" + 0.019*"sure" + 0.019*"check" + 0.019*"find" + 0.019*"and/or" + 0.019*"subject" + 0.018*"united"
+TOPIC 14:
+0.146*"600%-match" + 0.065*"defeat" + 0.033*"graham" + 0.032*"crush" + 0.030*"win" + 0.022*"rush" + 0.021*"save" + 0.020*"vulnerable" + 0.018*"tie" + 0.018*"lose" + 0.017*"lindsey graham" + 0.016*"tied" + 0.016*"beg" + 0.016*"the poll" + 0.016*"the verge" + 0.016*"raise" + 0.015*"ruin" + 0.015*"the supreme court" + 0.014*"destroy" + 0.014*"november"
+TOPIC 15:
+0.236*"president trump" + 0.068*"the president" + 0.031*"stand" + 0.020*"our president" + 0.018*"america" + 0.015*"president" + 0.015*"today" + 0.014*"know" + 0.014*"endorse" + 0.014*"the american people" + 0.014*"trump" + 0.013*"[[url redacted" + 0.011*"join" + 0.010*"defend" + 0.010*"authorize" + 0.009*"the white house" + 0.009*"work" + 0.008*"continue" + 0.008*"tonight" + 0.008*"stop"
+TOPIC 16:
+0.107*"the senate" + 0.064*"democrats" + 0.033*"senate" + 0.028*"control" + 0.021*"flip" + 0.020*"stop" + 0.019*"outraise" + 0.019*"republicans" + 0.018*"chuck schumer" + 0.016*"sponsor" + 0.014*"the senate majority" + 0.014*"the daily grind news" + 0.014*"defend" + 0.013*"fight" + 0.013*"lose" + 0.012*"million" + 0.011*"dr. suite" + 0.011*"opt" + 0.011*"120-137 tucson, az" + 0.011*"win"
+TOPIC 17:
+0.335*"face" + 0.158*"fully" + 0.122*"california" + 0.104*"fund" + 0.057*"this crisis" + 0.049*"tackle" + 0.017*"the work" + 0.016*"pass" + 0.014*"continue" + 0.011*"the united states" + 0.010*"washington, dc" + 0.009*"fight" + 0.009*"the way" + 0.008*"create" + 0.007*"authorize" + 0.006*"learn" + 0.006*"any candidate or candidate’s committee" + 0.005*"the nation" + 0.005*"bring" + 0.005*"healthy"
+TOPIC 18:
+0.060*"stand" + 0.037*"call" + 0.036*"action" + 0.025*"america" + 0.022*"justice" + 0.022*"demand" + 0.021*"take" + 0.020*"speak" + 0.020*"right" + 0.019*"let" + 0.016*"time" + 0.012*"the truth" + 0.011*"go" + 0.011*"lose" + 0.011*"happen" + 0.011*"this email" + 0.010*"force" + 0.010*"clear" + 0.010*"the country" + 0.009*"join"
+TOPIC 19:
+0.074*"join" + 0.029*"[[url redacted" + 0.027*"sign" + 0.020*"volunteer" + 0.019*"host" + 0.018*"rsvp" + 0.017*"hope" + 0.015*"[url redacted" + 0.013*"forward" + 0.013*"look" + 0.012*"share" + 0.012*"meet" + 0.012*"know" + 0.012*"attend" + 0.011*"invite" + 0.010*"this email" + 0.010*"let" + 0.010*"talk" + 0.010*"discuss" + 0.009*"this week"
+TOPIC 20:
+0.066*"wendy davis" + 0.038*"congress" + 0.029*"flip" + 0.023*"wendy" + 0.022*"tx-21" + 0.022*"our democratic house majority" + 0.022*"a donation" + 0.021*"our campaign" + 0.019*"stay" + 0.018*"texas" + 0.018*"blue" + 0.017*"touch" + 0.017*"supporter" + 0.017*"believe" + 0.017*"the good way" + 0.016*"this email" + 0.016*"congress email list" + 0.016*"the wendy davis" + 0.016*"few email" + 0.016*"right"
+TOPIC 21:
+0.045*"process" + 0.044*"congress" + 0.038*"actblue express" + 0.035*"your donation" + 0.028*"save" + 0.028*"anymore" + 0.024*"your payment information" + 0.024*"immediately" + 0.022*"these email" + 0.022*"this email" + 0.019*"right" + 0.019*"store" + 0.018*"raise" + 0.014*"instantly" + 0.014*"united states" + 0.013*"fight" + 0.013*"your contribution" + 0.012*"run" + 0.012*"rush" + 0.012*"sure"
+TOPIC 22:
+0.115*"contribute" + 0.023*"president trump" + 0.023*"the trump make america great again committee" + 0.019*"reach" + 0.018*"any amount" + 0.018*"team trump" + 0.018*"donald j. trump" + 0.017*"information" + 0.016*"date" + 0.016*"make america great again" + 0.016*"your support" + 0.016*"grassroots supporter" + 0.015*"the republican national committee" + 0.014*"trump make america great again committee" + 0.014*"the effort" + 0.013*"appreciate" + 0.013*"our grassroots supporter" + 0.013*"our team" + 0.013*"believe" + 0.012*"step"
+TOPIC 23:
+0.082*"contribution" + 0.052*"contribute" + 0.040*"report" + 0.039*"deductible" + 0.038*"require" + 0.035*"individual" + 0.033*"corporation" + 0.033*"prohibit" + 0.032*"federal income tax purpose" + 0.030*"use" + 0.028*"federal law" + 0.028*"employer" + 0.027*"occupation" + 0.026*"the name" + 0.023*"charitable contribution" + 0.022*"exceed" + 0.021*"collect" + 0.020*"election" + 0.019*"foreign national" + 0.018*"mail address"
+TOPIC 24:
+0.064*"bold democrats" + 0.029*"diverse democrats" + 0.027*"elect" + 0.019*"the senate" + 0.018*"today" + 0.018*"change" + 0.017*"democrats" + 0.017*"victory" + 0.016*"few email" + 0.016*"trump" + 0.015*"bold" + 0.010*"win" + 0.009*"take" + 0.009*"get" + 0.009*"flip" + 0.009*"raise" + 0.009*"end" + 0.009*"identify" + 0.009*"work" + 0.009*"good"
+TOPIC 25:
+0.046*"elect" + 0.035*"our country" + 0.032*"our house majority" + 0.032*"this message" + 0.023*"your support" + 0.023*"hope" + 0.022*"stay" + 0.021*"elect democrats" + 0.020*"few email" + 0.019*"protect" + 0.019*"chip" + 0.017*"democrats" + 0.016*"a moment" + 0.015*"key" + 0.014*"desperately" + 0.013*"important" + 0.013*"the fund" + 0.013*"found" + 0.013*"day" + 0.013*"deserve"
+TOPIC 26:
+0.048*"progressive turnout project" + 0.027*"democratic voter turnout" + 0.020*"increase" + 0.019*"few email" + 0.017*"election" + 0.016*"win" + 0.015*"democrats" + 0.014*"boost" + 0.014*"change" + 0.014*"afford" + 0.014*"your help" + 0.013*"a 100% grassroots-fund organization" + 0.013*"fight" + 0.013*"matter" + 0.013*"the progressive turnout project" + 0.013*"republicans" + 0.011*"follow" + 0.009*"donald trump" + 0.008*"save" + 0.007*"today"
+TOPIC 27:
+0.001*"today" + 0.001*"win" + 0.001*"know" + 0.001*"fight" + 0.001*"save" + 0.001*"few email" + 0.001*"build" + 0.001*"elect" + 0.001*"this email" + 0.001*"go" + 0.001*"friend" + 0.001*"our entire team" + 0.001*"get" + 0.001*"right" + 0.001*"run" + 0.001*"work" + 0.001*"our campaign" + 0.001*"democrats" + 0.001*"chip" + 0.001*"the senate"
+TOPIC 28:
+0.173*"vote" + 0.151*"commit" + 0.130*"pledge" + 0.113*"our lifetime" + 0.078*"the most important election" + 0.064*"november" + 0.052*"florida democrats" + 0.038*"our life" + 0.036*"the general election" + 0.011*"committed" + 0.010*"take" + 0.008*"depend" + 0.007*"right" + 0.007*"clear" + 0.007*"way" + 0.007*"the line" + 0.006*"100%" + 0.006*"this november" + 0.005*"ignore" + 0.005*"mark"
+TOPIC 29:
+0.055*"the dscc" + 0.032*"democrats" + 0.028*"vote" + 0.025*"any candidate or candidate’s committee" + 0.023*"your response" + 0.023*"record" + 0.023*"authorize" + 0.022*"a contribution" + 0.021*"rely" + 0.021*"[[url redacted" + 0.021*"solely" + 0.021*"our work" + 0.020*"the u.s. senate" + 0.020*"washington" + 0.020*"grassroots supporter" + 0.020*"few email" + 0.019*"dedicated" + 0.019*"contribution" + 0.019*"deductible" + 0.019*"gift"
+TOPIC 30:
+0.062*"the dscc" + 0.046*"flip" + 0.045*"the senate" + 0.041*"democrats" + 0.026*"the u.s. senate" + 0.021*"any candidate or candidate’s committee" + 0.020*"a contribution" + 0.020*"our work" + 0.020*"grassroots supporter" + 0.020*"solely" + 0.020*"authorize" + 0.020*"washington" + 0.020*"dedicated" + 0.019*"rely" + 0.019*"rush" + 0.019*"[[url redacted" + 0.019*"few email" + 0.019*"the only committee" + 0.019*"| po box 96047" + 0.019*"gift"
+TOPIC 31:
+0.088*"chip" + 0.055*"the good way" + 0.050*"touch" + 0.050*"stay" + 0.045*"supporter" + 0.044*"our campaign" + 0.041*"believe" + 0.037*"→ chip" + 0.037*"a donation" + 0.028*"few email" + 0.022*"other amount" + 0.022*"all our email" + 0.014*"win" + 0.014*"folk" + 0.013*"this fall" + 0.012*"congress po box" + 0.010*"stand" + 0.010*"congress" + 0.009*"let" + 0.009*"get"
+TOPIC 32:
+0.119*"protect" + 0.051*"fight" + 0.040*"expand" + 0.032*"our democracy" + 0.031*"ensure" + 0.023*"access" + 0.021*"the right" + 0.019*"pass" + 0.017*"defend" + 0.016*"join" + 0.016*"our election" + 0.014*"work" + 0.014*"restore" + 0.014*"state" + 0.013*"the house" + 0.013*"secure" + 0.013*"voting right" + 0.011*"today" + 0.011*"hard" + 0.010*"the fight"
+TOPIC 33:
+0.108*"chip" + 0.081*"your donation" + 0.074*"immediately" + 0.071*"save" + 0.069*"actblue express" + 0.063*"your payment information" + 0.021*"another amount" + 0.017*"right" + 0.016*"win" + 0.013*"fight" + 0.012*"go" + 0.012*"express donate" + 0.012*"our campaign" + 0.012*"today" + 0.009*"a donation" + 0.008*"pitch" + 0.007*"this election" + 0.007*"come" + 0.006*"let" + 0.006*"take"
+TOPIC 34:
+0.048*"the state" + 0.038*"democrats" + 0.031*"elect" + 0.028*"maine" + 0.028*"the country" + 0.027*"republicans" + 0.022*"authorize" + 0.020*"our success" + 0.019*"maintain" + 0.019*"critical" + 0.017*"contribute" + 0.017*"our supporter" + 0.017*"a contribution" + 0.016*"advance" + 0.016*"focus" + 0.016*"ensure" + 0.015*"our effort" + 0.015*"any candidate or candidate's committee" + 0.015*"visit" + 0.015*"stop"
+TOPIC 35:
+0.390*"sign" + 0.074*"demand" + 0.040*"the petition" + 0.033*"our petition" + 0.030*"stand" + 0.029*"your name" + 0.018*"your signature" + 0.017*"trump" + 0.014*"collect" + 0.013*"signature" + 0.013*"stop" + 0.012*"immediately" + 0.011*"force" + 0.010*"my name" + 0.010*"allow" + 0.009*"the american people" + 0.008*"congress" + 0.008*"deserve" + 0.008*"love" + 0.008*"lie"
+TOPIC 36:
+0.225*"confirm" + 0.108*"finish" + 0.079*"expect" + 0.070*"last week" + 0.054*"notice" + 0.052*"check" + 0.037*"strong" + 0.036*"remain" + 0.022*"our record" + 0.019*"correct" + 0.018*"your time" + 0.015*"review" + 0.015*"track" + 0.013*"your record" + 0.013*"prepare" + 0.012*"open" + 0.011*"officially" + 0.010*"date" + 0.009*"give" + 0.009*"come"
+TOPIC 37:
+0.088*"president" + 0.087*"enter" + 0.060*"split" + 0.038*"win" + 0.028*"automatically" + 0.018*"contribution" + 0.017*"the primary" + 0.014*"accept" + 0.014*"democrats" + 0.012*"this email" + 0.012*"join" + 0.012*"designate" + 0.010*"biden" + 0.010*"majority" + 0.010*"meet" + 0.010*"a chance" + 0.010*"any amount" + 0.009*"chip" + 0.009*"elect" + 0.009*"list"
+TOPIC 38:
+0.083*"vote" + 0.066*"let" + 0.035*"let america vote" + 0.032*"donald trump" + 0.032*"america" + 0.027*"voting right" + 0.024*"defeat" + 0.022*"our email" + 0.021*"few email" + 0.016*"attention" + 0.016*"politician" + 0.015*"shatter" + 0.014*"start" + 0.014*"a commitment" + 0.014*"earn" + 0.014*"the fight" + 0.014*"the 2020 election" + 0.014*"the time" + 0.014*"hit" + 0.014*"our constitutional right"
+TOPIC 39:
+0.314*"match" + 0.045*"double" + 0.027*"rush" + 0.023*"raise" + 0.021*"matched" + 0.019*"expire" + 0.019*"right" + 0.018*"all donation" + 0.017*"dollar" + 0.017*"midnight" + 0.017*"offer" + 0.016*"a group" + 0.015*"your gift" + 0.014*"5x-match" + 0.013*"step" + 0.013*"extend" + 0.013*"every dollar" + 0.012*"triple" + 0.012*"advantage" + 0.012*"donor"
+TOPIC 40:
+0.339*"url" + 0.329*"redacted" + 0.057*"subscribe" + 0.047*"this email" + 0.039*"this list" + 0.034*"[[url redacted" + 0.030*"([[url redacted" + 0.022*"contact" + 0.017*"simply" + 0.017*"question" + 0.017*"ignore" + 0.011*"this link" + 0.011*"mailchimp" + 0.007*"the button" + 0.006*"the link" + 0.004*"use" + 0.003*"visit" + 0.002*"authorize" + 0.001*"miss" + 0.001*"slow"
+TOPIC 41:
+0.073*"our goal" + 0.069*"hit" + 0.058*"reach" + 0.047*"short" + 0.040*"raise" + 0.040*"close" + 0.036*"midnight" + 0.027*"right" + 0.024*"chip" + 0.024*"fall" + 0.019*"count" + 0.019*"meet" + 0.017*"tonight" + 0.015*"track" + 0.015*"away" + 0.014*"this goal" + 0.013*"leave" + 0.012*"step" + 0.012*"afford" + 0.012*"important"
+TOPIC 42:
+0.566*"our movement" + 0.422*"dedicate" + 0.010*"our most important email" + 0.001*"elect" + 0.000*"feel" + 0.000*"chip" + 0.000*"save" + 0.000*"get" + 0.000*"know" + 0.000*"go" + 0.000*"this email" + 0.000*"change" + 0.000*"update" + 0.000*"run" + 0.000*"[[url redacted" + 0.000*"today" + 0.000*"a lot" + 0.000*"altogether" + 0.000*"believe" + 0.000*"hope"
+TOPIC 43:
+0.064*"equality" + 0.044*"democrats" + 0.040*"pac" + 0.030*"elect" + 0.029*"trump" + 0.027*"go" + 0.026*"win" + 0.025*"defeat" + 0.024*"few email" + 0.022*"night" + 0.022*"president obama" + 0.017*"donald trump" + 0.016*"day" + 0.016*"let" + 0.016*"right" + 0.016*"important" + 0.015*"know" + 0.015*"d.c." + 0.015*"november" + 0.015*"this one"
+TOPIC 44:
+0.039*"happy" + 0.027*"mitch" + 0.026*"fellow conservative" + 0.025*"reach" + 0.022*"order" + 0.022*"term" + 0.020*"stop" + 0.020*"end" + 0.020*"today" + 0.019*"vary" + 0.018*"reply help" + 0.017*"conditions" + 0.017*"go" + 0.017*"msg&dataratesmayapply" + 0.017*"message frequency" + 0.017*"mobile alert" + 0.016*"impact" + 0.015*"chuck schumer" + 0.014*"count" + 0.014*"know"
+TOPIC 45:
+0.051*"say" + 0.012*"come" + 0.012*"tell" + 0.012*"go" + 0.011*"people" + 0.010*"know" + 0.010*"write" + 0.009*"include" + 0.008*"take" + 0.008*"call" + 0.008*"give" + 0.008*"read" + 0.007*"find" + 0.007*"allow" + 0.007*"look" + 0.007*"get" + 0.007*"time" + 0.007*"ask" + 0.007*"see" + 0.007*"live"
+TOPIC 46:
+0.236*"flip" + 0.155*"texas" + 0.061*"blue" + 0.050*"win" + 0.049*"this seat" + 0.047*"red" + 0.024*"turn" + 0.020*"texans" + 0.017*"go" + 0.016*"democrats" + 0.014*"chip" + 0.011*"seat" + 0.010*"come" + 0.009*"november" + 0.009*"your help" + 0.009*"this district" + 0.008*"close" + 0.008*"ready" + 0.007*"the house" + 0.007*"this race"
+TOPIC 47:
+0.039*"citizens united" + 0.033*"pass" + 0.031*"end citizens united" + 0.027*"end" + 0.024*"democrats" + 0.023*"our movement" + 0.023*"fund" + 0.021*"sweeping campaign finance reform" + 0.021*"end citizens united pac" + 0.021*"few email" + 0.015*"donald trump" + 0.014*"win" + 0.013*"build" + 0.013*"ask" + 0.012*"know" + 0.012*"overturn" + 0.012*"the next generation" + 0.012*"history" + 0.012*"the constitutional amendment" + 0.012*"fuel"
+TOPIC 48:
+0.291*"watch" + 0.131*"tonight" + 0.105*"celebrate" + 0.047*"the debate" + 0.043*"debate" + 0.040*"live" + 0.030*"tune" + 0.018*"plan" + 0.013*"benefit" + 0.013*"share" + 0.013*"miss" + 0.013*"small business" + 0.012*"[[url redacted" + 0.010*"last night" + 0.010*"close" + 0.010*"this email" + 0.010*"reclaim" + 0.008*"tomorrow" + 0.007*"corporation" + 0.006*"hear"
+TOPIC 49:
+0.067*"this message" + 0.063*"few email" + 0.056*"our campaign" + 0.051*"prefer" + 0.047*"supporter" + 0.046*"stay" + 0.043*"a crucial way" + 0.041*"touch" + 0.040*"believe" + 0.036*"update" + 0.034*"your email address" + 0.034*"[[email_redacted]] | change" + 0.024*"reform" + 0.023*"elect" + 0.023*"| click" + 0.023*"your support" + 0.021*"state" + 0.019*"critical" + 0.016*"democrats" + 0.015*"fight"
+TOPIC 50:
+0.291*"chip" + 0.188*"rush" + 0.122*"immediately" + 0.046*"another amount" + 0.027*"right" + 0.022*"raise" + 0.020*"defeat" + 0.018*"lose" + 0.013*"fight" + 0.013*"save" + 0.013*"your help" + 0.008*"step" + 0.008*"win" + 0.007*"a donation" + 0.007*"afford" + 0.007*"republicans" + 0.006*"donation" + 0.006*"count" + 0.006*"stop" + 0.005*"donald trump"
+TOPIC 51:
+0.036*"the nra" + 0.035*"end" + 0.030*"brady pac" + 0.025*"gun violence" + 0.025*"pass" + 0.022*"lose" + 0.022*"life" + 0.021*"4x-match" + 0.021*"power" + 0.020*"our work" + 0.020*"few email" + 0.017*"pac" + 0.017*"fund" + 0.013*"brady" + 0.013*"elect" + 0.013*"save" + 0.012*"know" + 0.011*"care" + 0.011*"gun safety activist" + 0.011*"go"
+TOPIC 52:
+0.100*"michigan" + 0.029*"the senate" + 0.026*"win" + 0.021*"right" + 0.021*"democrats" + 0.020*"protect" + 0.020*"the senate blue" + 0.019*"stand" + 0.017*"the path" + 0.017*"few email" + 0.016*"fight" + 0.015*"know" + 0.015*"take" + 0.014*"stay" + 0.014*"friend" + 0.013*"our value" + 0.013*"our top supporter" + 0.013*"our email" + 0.013*"believe" + 0.012*"touch"
+TOPIC 53:
+0.038*"work" + 0.029*"serve" + 0.025*"fight" + 0.017*"today" + 0.017*"the people" + 0.015*"represent" + 0.015*"continue" + 0.014*"join" + 0.013*"run" + 0.013*"know" + 0.013*"proud" + 0.013*"our community" + 0.012*"people" + 0.012*"endorse" + 0.012*"honor" + 0.010*"well" + 0.010*"deserve" + 0.010*"elect" + 0.010*"stand" + 0.009*"believe"
+TOPIC 54:
+0.068*"ask" + 0.061*"know" + 0.043*"completely" + 0.033*"a lot" + 0.022*"people" + 0.021*"the u.s. house of representatives" + 0.020*"protect" + 0.019*"endorse" + 0.019*"politic" + 0.018*"money" + 0.018*"work" + 0.018*"run" + 0.017*"understand" + 0.017*"count" + 0.016*"democrats" + 0.016*"midnight" + 0.014*"fund" + 0.014*"take" + 0.013*"let" + 0.013*"proud"
+TOPIC 55:
+0.115*"begin" + 0.058*"select" + 0.050*"complete" + 0.048*"your response" + 0.038*"respond" + 0.030*"your input" + 0.028*"survey" + 0.025*"the survey" + 0.025*"participate" + 0.024*"represent" + 0.019*"our strategy" + 0.019*"choose" + 0.017*"know" + 0.017*"bryceville" + 0.017*"the button" + 0.016*"hear" + 0.016*"answer" + 0.015*"florida" + 0.015*"immediately" + 0.013*"use"
+TOPIC 56:
+0.120*"president obama" + 0.048*"barack obama" + 0.042*"obama" + 0.033*"montana" + 0.033*"the majority" + 0.025*"fight" + 0.025*"today" + 0.023*"work" + 0.020*"win" + 0.018*"protect" + 0.015*"right" + 0.015*"step" + 0.014*"know" + 0.014*"the senate" + 0.013*"real change" + 0.013*"chip" + 0.012*"our country" + 0.012*"our email" + 0.012*"lose" + 0.012*"order"
+TOPIC 57:
+0.001*"vote" + 0.001*"democrats" + 0.001*"few email" + 0.001*"win" + 0.001*"chip" + 0.001*"know" + 0.001*"right" + 0.001*"the dscc" + 0.001*"the senate" + 0.001*"mail" + 0.001*"save" + 0.001*"pass" + 0.001*"400%-match" + 0.001*"end" + 0.001*"elect" + 0.001*"trump" + 0.001*"let" + 0.001*"fight" + 0.001*"flip" + 0.001*"donald trump"
+TOPIC 58:
+0.129*"facebook" + 0.117*"twitter" + 0.057*"follow" + 0.048*"this email" + 0.036*"stop" + 0.032*"[[url redacted" + 0.031*"instagram" + 0.030*"share" + 0.029*"leader" + 0.028*"today" + 0.024*"united states" + 0.024*"join" + 0.024*"create" + 0.017*"message" + 0.016*"friend" + 0.015*"a friend" + 0.014*"your inbox" + 0.014*"directly" + 0.013*"check" + 0.012*"social medium"
+TOPIC 59:
+0.058*"today" + 0.043*"win" + 0.041*"my campaign" + 0.040*"this race" + 0.030*"my opponent" + 0.029*"try" + 0.020*"your help" + 0.020*"ask" + 0.019*"[[url redacted" + 0.019*"our campaign" + 0.018*"go" + 0.018*"your support" + 0.017*"know" + 0.015*"power" + 0.015*"raise" + 0.013*"free today" + 0.013*"email marketing" + 0.013*"constant contact - try" + 0.013*"trusted email" + 0.012*"free"
+TOPIC 60:
+0.036*"fight" + 0.029*"stand" + 0.027*"nancy pelosi" + 0.025*"today" + 0.023*"get" + 0.019*"the democrats" + 0.019*"congress" + 0.019*"know" + 0.017*"stop" + 0.016*"thing" + 0.016*"your help" + 0.015*"defeat" + 0.015*"count" + 0.014*"the left" + 0.014*"the house" + 0.013*"washington" + 0.013*"chip" + 0.013*"let" + 0.012*"attack" + 0.011*"spend"
+TOPIC 61:
+0.037*"democrats" + 0.034*"win" + 0.032*"train" + 0.025*"fund" + 0.024*"the national democratic training committee" + 0.023*"imagine" + 0.022*"office" + 0.021*"run" + 0.020*"few email" + 0.013*"100%" + 0.013*"your help" + 0.013*"elect" + 0.012*"know" + 0.011*"dignity" + 0.011*"promise" + 0.011*"small" + 0.011*"honest" + 0.011*"a world" + 0.011*"expensive" + 0.011*"try"
+TOPIC 62:
+0.141*"express" + 0.031*"congress" + 0.022*"know" + 0.021*"our campaign" + 0.020*"our community" + 0.018*"stay" + 0.018*"represent" + 0.017*"visit" + 0.017*"run" + 0.017*"covid-19" + 0.016*"a difficult time" + 0.015*"learn" + 0.015*"your family" + 0.014*"able" + 0.014*"this message" + 0.014*"directly" + 0.013*"team" + 0.012*"pause" + 0.012*"safe" + 0.012*"little"
+TOPIC 63:
+0.043*"know" + 0.029*"work" + 0.024*"go" + 0.023*"this campaign" + 0.021*"come" + 0.020*"sure" + 0.019*"today" + 0.019*"your support" + 0.017*"our campaign" + 0.016*"hard" + 0.015*"let" + 0.014*"make" + 0.014*"grateful" + 0.013*"build" + 0.013*"strong" + 0.013*"mean" + 0.013*"able" + 0.012*"get" + 0.011*"hope" + 0.011*"see"
+TOPIC 64:
+0.165*"lindsey graham" + 0.090*"south carolina" + 0.063*"jaime harrison" + 0.040*"defeat" + 0.031*"the senate" + 0.030*"graham" + 0.027*"u.s. senate" + 0.027*"lindsey" + 0.022*"right" + 0.022*"chip" + 0.015*"update" + 0.012*"run" + 0.011*"beat" + 0.011*"go" + 0.010*"follow" + 0.010*"leave" + 0.010*"raise" + 0.010*"tie" + 0.010*"bring" + 0.010*"win"
+TOPIC 65:
+0.102*"medicare" + 0.035*"pass" + 0.030*"glad" + 0.029*"our work" + 0.029*"our team" + 0.028*"long" + 0.027*"few email" + 0.025*"chip" + 0.017*"stand" + 0.016*"fight" + 0.016*"know" + 0.016*"healthcare" + 0.015*"die" + 0.015*"rise" + 0.015*"entirely" + 0.015*"grassroots activist" + 0.015*"any candidate or candidate committee" + 0.015*"big pharma" + 0.015*"the only way" + 0.015*"lot"
+TOPIC 66:
+0.158*"vote" + 0.030*"sure" + 0.027*"register" + 0.027*"election day" + 0.026*"person" + 0.024*"mail" + 0.024*"your ballot" + 0.023*"find" + 0.021*"early" + 0.020*"today" + 0.019*"request" + 0.017*"cast" + 0.017*"your vote" + 0.016*"early voting" + 0.015*"count" + 0.015*"voting" + 0.015*"the poll" + 0.013*"check" + 0.012*"return" + 0.012*"tomorrow"
+TOPIC 67:
+0.136*"→ chip" + 0.048*"chip" + 0.047*"the voter protection project" + 0.034*"other amount" + 0.030*"any candidate" + 0.026*"stay" + 0.025*"a donation" + 0.024*"authorize" + 0.024*"believe" + 0.024*"supporter" + 0.023*"all our email" + 0.023*"any candidate's committee" + 0.022*"few email" + 0.022*"the good way" + 0.022*"touch" + 0.021*"our campaign" + 0.018*"today" + 0.017*"count" + 0.011*"save" + 0.010*"the senate"
+TOPIC 68:
+0.049*"stop" + 0.042*"republicans" + 0.030*"supporter" + 0.029*"this message" + 0.029*"few email" + 0.022*"order" + 0.017*"trump" + 0.016*"go" + 0.016*"the country" + 0.016*"the republican party" + 0.016*"chicago" + 0.016*"stop republican" + 0.015*"stay" + 0.015*"power" + 0.015*"resist" + 0.015*"believe" + 0.015*"prefer" + 0.015*"defeat" + 0.015*"([[url redacted" + 0.015*"update"
+TOPIC 69:
+0.726*"hold" + 0.188*"accountable" + 0.028*"the house" + 0.007*"office" + 0.007*"the american people" + 0.003*"pause" + 0.003*"refuse" + 0.003*"return" + 0.003*"steal" + 0.002*"make" + 0.002*"hear" + 0.002*"yesterday" + 0.002*"let" + 0.002*"say" + 0.002*"leave" + 0.002*"cover" + 0.002*"the united states senate" + 0.001*"the fact" + 0.001*"answer" + 0.001*"understand"
+TOPIC 70:
+0.040*"our campaign" + 0.039*"african americans" + 0.039*"the political process" + 0.037*"pac" + 0.027*"promote" + 0.026*"supporter" + 0.026*"the congressional black caucus" + 0.025*"this message" + 0.025*"african american participation" + 0.025*"few email" + 0.021*"congressional black caucus" + 0.015*"elect" + 0.015*"the poll" + 0.014*"washington dc" + 0.014*"activate" + 0.014*"massachusetts ave" + 0.014*"congress" + 0.014*"work" + 0.014*"our community" + 0.013*"non-black ally"
+TOPIC 71:
+0.082*"colorado" + 0.061*"progress" + 0.050*"fight" + 0.049*"climate change" + 0.048*"trust" + 0.047*"elect" + 0.028*"district" + 0.021*"history" + 0.019*"authorize" + 0.017*"science" + 0.017*"expand" + 0.016*"ready" + 0.015*"getting" + 0.015*"congress" + 0.014*"fact" + 0.014*"our fight" + 0.013*"involve" + 0.012*"rely" + 0.011*"end" + 0.011*"your help"
+TOPIC 72:
+0.117*"voter" + 0.058*"reach" + 0.032*"election day" + 0.022*"your help" + 0.019*"sure" + 0.019*"win" + 0.019*"cast" + 0.016*"their ballot" + 0.014*"make" + 0.014*"know" + 0.013*"our message" + 0.012*"volunteer" + 0.012*"the district" + 0.012*"possible" + 0.012*"leave" + 0.012*"the vote" + 0.012*"call" + 0.011*"count" + 0.011*"run" + 0.010*"your support"
+TOPIC 73:
+0.111*"bring" + 0.060*"contribute" + 0.045*"home" + 0.039*"our community" + 0.036*"fight" + 0.033*"work" + 0.026*"washington" + 0.025*"friend" + 0.021*"our family" + 0.020*"congress" + 0.019*"long" + 0.018*"stay" + 0.018*"the cost" + 0.018*"safe" + 0.017*"visit" + 0.017*"experience" + 0.017*"learn" + 0.017*"lower" + 0.016*"protect" + 0.016*"face"
+TOPIC 74:
+0.106*"500%-match" + 0.029*"few email" + 0.027*"trump" + 0.024*"defeat" + 0.022*"end" + 0.019*"another amount" + 0.019*"afford" + 0.018*"today" + 0.017*"victory" + 0.015*"the senate" + 0.015*"po box" + 0.015*"this message" + 0.015*"our email" + 0.015*"update" + 0.014*"| click" + 0.014*"your email address" + 0.014*"work" + 0.014*"a contribution" + 0.013*"take" + 0.013*"a wave"
+TOPIC 75:
+0.039*"texas" + 0.032*"express" + 0.030*"endorsement" + 0.028*"imply" + 0.027*"uniform" + 0.027*"photograph" + 0.026*"know" + 0.025*"the department of defense" + 0.022*"time" + 0.022*"use" + 0.017*"win" + 0.016*"job title" + 0.015*"her military rank" + 0.015*"sen. cornyn" + 0.015*"a member" + 0.014*"let" + 0.013*"november" + 0.012*"long" + 0.012*"believe" + 0.012*"greatly"
+TOPIC 76:
+0.082*"montana" + 0.053*"governor" + 0.040*"elect" + 0.029*"win" + 0.023*"thankful" + 0.022*"run" + 0.019*"fight" + 0.019*"dark money" + 0.017*"affordable health care" + 0.016*"stop" + 0.016*"this message" + 0.016*"update" + 0.016*"right" + 0.015*"let" + 0.014*"hope" + 0.014*"expand" + 0.013*"ensure" + 0.013*"know" + 0.013*"follow" + 0.013*"continue"
+TOPIC 77:
+0.377*"joe biden" + 0.181*"kamala harris" + 0.078*"joe" + 0.043*"kamala" + 0.035*"mike pence" + 0.031*"biden" + 0.030*"vice president" + 0.015*"know" + 0.012*"pick" + 0.012*"announce" + 0.012*"choose" + 0.011*"president" + 0.010*"endorse" + 0.009*"officially" + 0.009*"head" + 0.009*"stand" + 0.009*"elizabeth warren" + 0.007*"the white house" + 0.005*"bryceville" + 0.005*"elect"
+TOPIC 78:
+0.250*"end" + 0.159*"month" + 0.120*"deadline" + 0.095*"goal" + 0.066*"quarter" + 0.056*"fundraising" + 0.030*"final" + 0.022*"hit" + 0.014*"reach" + 0.013*"critical" + 0.009*"august" + 0.008*"meet" + 0.007*"raise" + 0.006*"come" + 0.005*"crucial" + 0.005*"count" + 0.004*"year" + 0.004*"short" + 0.004*"the election" + 0.004*"away"
+TOPIC 79:
+0.383*"400%-match" + 0.044*"option" + 0.018*"end" + 0.017*"democrats" + 0.017*"our campaign" + 0.014*"custom amount" + 0.014*"few email" + 0.013*"pass" + 0.011*"rush" + 0.011*"donation" + 0.011*"beg" + 0.010*"chip" + 0.009*"fund" + 0.008*"win" + 0.008*"elect" + 0.008*"citizens united" + 0.008*"not authorized" + 0.008*"run" + 0.007*"| click" + 0.007*"dedicate"
+TOPIC 80:
+0.037*"nrcc" + 0.035*"text" + 0.021*"that number" + 0.021*"visit" + 0.021*"the national republican congressional committee" + 0.019*"consent" + 0.019*"the nrcc" + 0.018*"provide" + 0.018*"autodiale and automate call" + 0.018*"[[url redacted" + 0.018*"call" + 0.017*"include" + 0.017*"end" + 0.017*"term" + 0.017*"stop" + 0.016*"privacy policy" + 0.016*"reach" + 0.015*"authorize" + 0.015*"any candidate or candidate's committee" + 0.015*"your support"
+TOPIC 81:
+0.081*"elect" + 0.077*"the ballot" + 0.076*"office" + 0.066*"ohio" + 0.066*"win" + 0.063*"this year" + 0.062*"run" + 0.053*"iowa" + 0.037*"candidate" + 0.021*"november" + 0.019*"our candidate" + 0.018*"remove" + 0.018*"include" + 0.017*"today" + 0.016*"election" + 0.013*"your support" + 0.013*"change" + 0.012*"power" + 0.009*"state" + 0.008*"this email"
+TOPIC 82:
+0.026*"joe biden" + 0.023*"file" + 0.023*"sorry" + 0.021*"elect" + 0.020*"this email" + 0.018*"know" + 0.015*"this campaign" + 0.013*"friend" + 0.013*"president" + 0.012*"the soul" + 0.012*"get" + 0.011*"this nation" + 0.011*"fight" + 0.011*"today" + 0.011*"a lot" + 0.011*"reflect" + 0.011*"grassroots supporter" + 0.011*"complacent" + 0.011*"biden" + 0.011*"a check"
+TOPIC 83:
+0.059*"500%-match" + 0.027*"citizens united" + 0.025*"pass" + 0.020*"win" + 0.019*"end citizens united" + 0.019*"democrats" + 0.018*"fund" + 0.017*"end" + 0.017*"mark kelly" + 0.016*"elect" + 0.016*"end citizens united pac" + 0.016*"few email" + 0.016*"sweeping campaign finance reform" + 0.016*"our movement" + 0.012*"stop" + 0.012*"mcconnell" + 0.012*"custom amount" + 0.011*"ask" + 0.010*"run" + 0.010*"know"
+TOPIC 84:
+0.167*"arizona" + 0.077*"our ad" + 0.071*"the air" + 0.069*"mark kelly" + 0.045*"win" + 0.041*"launch" + 0.037*"ad" + 0.025*"flip" + 0.022*"the airwave" + 0.019*"this race" + 0.018*"mark" + 0.017*"right" + 0.015*"run" + 0.014*"spend" + 0.012*"drown" + 0.010*"lose" + 0.010*"attack ad" + 0.009*"flood" + 0.009*"rush" + 0.009*"authorize"
+TOPIC 85:
+0.044*"the nrsc" + 0.032*"text" + 0.024*"president trump" + 0.020*"apply" + 0.019*"republicans" + 0.019*"great" + 0.017*"opt-out" + 0.017*"stop" + 0.017*"agree" + 0.016*"make" + 0.016*"prefer" + 0.016*"visit" + 0.016*"america" + 0.016*"federal income tax purpose" + 0.016*"charitable contribution" + 0.015*"message and datum rate" + 0.015*"maga" + 0.015*"deductible" + 0.015*"contribution" + 0.015*"mobile alert"
+TOPIC 86:
+0.079*"[[url redacted" + 0.070*"change" + 0.063*"address" + 0.048*"update" + 0.044*"stop" + 0.038*"your email address" + 0.030*"your name" + 0.026*"organize" + 0.025*"people" + 0.024*"build" + 0.022*"today" + 0.020*"contribute" + 0.015*"solidarity" + 0.011*"authorize" + 0.010*"create" + 0.010*"power" + 0.010*"remove" + 0.010*"our email list" + 0.010*"this movement" + 0.009*"start"
+TOPIC 87:
+0.049*"train" + 0.038*"defeat" + 0.034*"a wave" + 0.032*"nationwide" + 0.028*"democratic candidate" + 0.025*"the country" + 0.025*"depend" + 0.023*"fund" + 0.023*"elect" + 0.023*"our work" + 0.021*"few email" + 0.020*"trump" + 0.016*"republicans" + 0.015*"win" + 0.014*"staff" + 0.014*"the democratic party" + 0.014*"money" + 0.014*"your part" + 0.014*"cost" + 0.013*"end"
+TOPIC 88:
+0.040*"end" + 0.027*"citizens united" + 0.026*"democrats" + 0.024*"fund" + 0.023*"wonder" + 0.022*"billionaire" + 0.020*"few email" + 0.018*"ultimately" + 0.016*"fix" + 0.015*"transform" + 0.014*"win" + 0.014*"know" + 0.014*"instead" + 0.013*"run" + 0.013*"advocate" + 0.013*"pass" + 0.013*"push" + 0.012*"fuel" + 0.012*"d.c." + 0.012*"fundraise"
+TOPIC 89:
+0.087*"hear" + 0.064*"social security" + 0.050*"inform" + 0.048*"this email" + 0.046*"congress" + 0.044*"concern" + 0.040*"long" + 0.032*"an important way" + 0.032*"supporter" + 0.030*"instantly" + 0.030*"build" + 0.027*"question" + 0.025*"fight" + 0.022*"cut" + 0.020*"contact" + 0.018*"all our list" + 0.016*"protect" + 0.013*"washington" + 0.012*"medicare" + 0.012*"work"
+TOPIC 90:
+0.046*"contribute" + 0.043*"agree" + 0.028*"our democratic majority" + 0.023*"our democracy" + 0.021*"few email" + 0.020*"republicans" + 0.018*"democrats" + 0.017*"trump" + 0.017*"his republicans" + 0.015*"5x-match" + 0.014*"everyday" + 0.014*"friends" + 0.014*"let" + 0.014*"different" + 0.014*"right" + 0.014*"majority" + 0.014*"follow" + 0.013*"result" + 0.013*"protect" + 0.013*"the rest"
+TOPIC 91:
+0.172*"read" + 0.052*"this email" + 0.042*"know" + 0.036*"feel" + 0.033*"love" + 0.028*"free" + 0.022*"keep" + 0.020*"reply" + 0.018*"post" + 0.018*"stop" + 0.016*"[url redacted" + 0.015*"ready" + 0.013*"come" + 0.013*"protect" + 0.013*"proud" + 0.013*"find" + 0.012*"[[url redacted" + 0.012*"friend" + 0.012*"replace" + 0.012*"check"
+TOPIC 92:
+0.044*"deck" + 0.042*"all hand" + 0.035*"triple" + 0.030*"match" + 0.027*"stay" + 0.026*"contact" + 0.023*"supporter" + 0.023*"believe" + 0.022*"gift" + 0.021*"tax" + 0.021*"deductible" + 0.019*"democrats" + 0.018*"few email" + 0.017*"sure" + 0.016*"come" + 0.016*"your information" + 0.016*"update" + 0.016*"protect" + 0.015*"fight" + 0.015*"any question"
+TOPIC 93:
+0.187*"save" + 0.088*"the usps" + 0.067*"the post office" + 0.057*"trump" + 0.055*"the postal service" + 0.035*"mail" + 0.029*"vote" + 0.018*"destroy" + 0.014*"donald trump" + 0.012*"fund" + 0.011*"right" + 0.010*"stop" + 0.009*"try" + 0.009*"close" + 0.009*"congress" + 0.009*"shut" + 0.009*"run" + 0.008*"impossible" + 0.008*"act" + 0.008*"deliver"
+TOPIC 94:
+0.094*"deductible" + 0.091*"tax" + 0.083*"gift" + 0.082*"contribution" + 0.046*"this email" + 0.036*"amy" + 0.035*"authorize" + 0.031*"washington" + 0.023*"any candidate or candidate's committee" + 0.017*"team" + 0.016*"right" + 0.014*"win" + 0.013*"[[url redacted" + 0.012*"show" + 0.012*"stop" + 0.012*"take" + 0.011*"let" + 0.009*"america" + 0.008*"pitch" + 0.008*"time"
+TOPIC 95:
+0.039*"republicans" + 0.038*"stop" + 0.026*"supporter" + 0.025*"this message" + 0.025*"few email" + 0.022*"win" + 0.018*"500%-match" + 0.018*"critical" + 0.016*"the republican party" + 0.015*"the country" + 0.015*"our campaign" + 0.015*"defeat" + 0.014*"democratic voter turnout" + 0.014*"believe" + 0.013*"stop republican" + 0.013*"candidate's committee" + 0.013*"any candidate" + 0.013*"your grassroots support" + 0.013*"resist" + 0.013*"a crucial way"
+TOPIC 96:
+0.001*"chip" + 0.001*"know" + 0.001*"→ chip" + 0.001*"few email" + 0.001*"win" + 0.001*"our campaign" + 0.001*"today" + 0.001*"stay" + 0.001*"save" + 0.001*"congress" + 0.001*"donald trump" + 0.001*"actblue express" + 0.001*"work" + 0.001*"defeat" + 0.001*"this email" + 0.001*"trump" + 0.001*"get" + 0.001*"go" + 0.001*"touch" + 0.001*"sure"
+TOPIC 97:
+0.059*"this email" + 0.059*"update" + 0.056*"your preference" + 0.055*"this list" + 0.054*"change" + 0.054*"these email" + 0.051*"reserve" + 0.045*"our mailing address" + 0.045*"all right" + 0.034*"your address book" + 0.033*"add" + 0.031*"mailchimp" + 0.028*"view" + 0.027*"email marketing powered" + 0.024*"your browser" + 0.023*"opt" + 0.022*"our website" + 0.013*"copyright" + 0.008*"copyright ©" + 0.007*"this list update subscription preference"
+TOPIC 98:
+0.134*"wish" + 0.119*"long" + 0.104*"believe" + 0.104*"this message" + 0.087*"error" + 0.032*"united states" + 0.029*"today" + 0.018*"run" + 0.017*"contribute" + 0.009*"your support" + 0.009*"people" + 0.009*"know" + 0.008*"friend" + 0.007*"congress po box" + 0.007*"go" + 0.007*"leave" + 0.006*"get" + 0.006*"united" + 0.005*"order" + 0.005*"elect"
+TOPIC 99:
+0.121*"safe" + 0.113*"stay" + 0.054*"north carolina" + 0.054*"wisconsin" + 0.040*"cancel" + 0.039*"hope" + 0.037*"person" + 0.036*"healthy" + 0.032*"work" + 0.027*"event" + 0.027*"online" + 0.022*"fundraise" + 0.018*"able" + 0.017*"make" + 0.016*"take" + 0.015*"keep" + 0.013*"continue" + 0.013*"fight" + 0.013*"social distancing" + 0.013*"our campaign"
