@@ -7,26 +7,28 @@ import pickle
 from time import time
 from gensim.models import LdaModel
 from gensim.test.utils import datapath
+import yaml
 print("imported modules")
+
+with open('topic_modeling.yaml', 'r') as file:
+    config = yaml.safe_load(file)
 
 topics_start = time()
 
+saved_model = datapath(config['model_datapath'])
 model = LdaModel.load(saved_model) # use instead of pickle
 
 # load corpus and dictionary
-with open("0628_model", "rb") as m:
-    model = pickle.load(m)
-with open("pickle/0628_corpus", "rb") as c:
+with open(config['corpus_pickle'], "rb") as c:
     corpus = pickle.load(c)
 print("loaded LDA model, corpus, and dictionary")
 
 # read corpus to include the email ID
-with open("pickle/0628_df", "rb") as f:
+with open(config['df_pickle'], "rb") as f:
     df = pickle.load(f)
-#df = pd.read_csv('~/../data/princeton_emails/corpus_v1.0.csv', usecols=[0, 1, 2, 3, 18]).dropna().reset_index(drop=True)
 
 # initialize dictionary with desired topics
-top_topics = [3, 7, 9, 12, 29, 71, 96] # add topic IDs manually
+top_topics = config['top_topics'] # add topic IDs manually
 top_documents = {}
 for id in top_topics:
     top_documents[id] = []
@@ -39,19 +41,22 @@ for i in range(len(corpus)):
     for pair in doc_topics:
         topic_id = pair[0]
         probability = pair[1]
-        # can try with toy model to see that the topics are being generated correctly, also retry with before & after saving the model, and sanity check first few emails
-        # add email to dictionary if desired topics are represented in the text
-        if topic_id in top_topics:
-            top_documents[topic_id].append((email_id, probability))
+        if config['cutoff_by_threshold']:
+            if topic_id in top_topics and probability >= config['threshold']:
+                top_documents[topic_id].append((email_id, probability))
+        else:
+            if topic_id in top_topics:
+                top_documents[topic_id].append((email_id, probability))
 print("populated dictionary with documents")
 
 # sort the documents corresponding to each topic and get the top 5 documents per topic
 for id in top_topics:
     top_documents[id].sort(key=lambda probability: probability[1], reverse=True)
-    top_documents[id] = top_documents[id][0:5]
+    if not config['cutoff_by_threshold']:
+        top_documents[id] = top_documents[id][:config['num_docs']]
 print(top_documents)
 
-with open("pickle/0628_docs_postsave", "wb") as t:
+with open(config['docs_pickle'], "wb") as t:
     pickle.dump(top_documents, t)
 
 topics_end = time()

@@ -3,12 +3,18 @@ import spacy
 import pickle
 from time import time
 from spacy.language import Language
+from gensim.models import LdaModel
+import logging
+import yaml
 print("imported modules")
 
+with open('topic_modeling.yaml', 'r') as file:
+    config = yaml.safe_load(file)
+
 # Opening the pre-processed corpus data
-with open("pickle/0628_dictionary", "rb") as d:
+with open(config['dict_pickle'], "rb") as d:
     dictionary = pickle.load(d)   
-with open("pickle/0628_corpus", "rb") as c:
+with open(config['corpus_pickle'], "rb") as c:
     corpus = pickle.load(c)
 print("unpickled corpus and dictionary files")
 
@@ -16,19 +22,15 @@ print('Number of unique tokens: %d' % len(dictionary))
 print('Number of documents: %d' % len(corpus))
 
 # Enable logging to see the progress of training
-import logging
 logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
 print("logging setup successful")
 
 lda_start = time()
 
-# Train LDA model.
-from gensim.models import LdaModel
-
 # Set training parameters.
-num_topics = 100
+num_topics = config['num_topics']
 chunksize = 100000
-passes = 20
+passes = config['num_passes']
 iterations = 400
 eval_every = None  # Don't evaluate model perplexity, takes too much time.
 
@@ -50,47 +52,9 @@ model = LdaModel(
 lda_end = time()
 print("LDA run time: " + str(lda_end - lda_start))
 
-# DOCUMENT TOPICS BEFORE SAVING
-
-# read corpus to include the email ID
-with open("pickle/0628_df", "rb") as f:
-    df = pickle.load(f)
-
-# initialize dictionary with desired topics
-top_topics = [3, 7, 9, 12, 29, 71, 96] # add topic IDs manually
-top_documents = {}
-for id in top_topics:
-    top_documents[id] = []
-print("initialized dictionary for top topics")
-
-# iterate through emails to find each top topic
-assert len(corpus) == df.shape[0]
-for i in range(len(corpus)):
-    email_id = df.at[i, "uid_email"]
-    doc_topics = model.get_document_topics(corpus[i], minimum_probability=None, minimum_phi_value=None, per_word_topics=False)
-    for pair in doc_topics:
-        topic_id = pair[0]
-        probability = pair[1]
-        # can try with toy model to see that the topics are being generated correctly, also retry with before & after saving the model, and sanity check first few emails
-        # add email to dictionary if desired topics are represented in the text
-        if topic_id in top_topics:
-            top_documents[topic_id].append((email_id, probability))
-print("populated dictionary with documents")
-
-# sort the documents corresponding to each topic and get the top 5 documents per topic
-for id in top_topics:
-    top_documents[id].sort(key=lambda probability: probability[1], reverse=True)
-    top_documents[id] = top_documents[id][0:5]
-print(top_documents)
-
-with open("pickle/0628_docs_presave", "wb") as t:
-    pickle.dump(top_documents, t)
-
-topics_end = time()
-print("Time to retrieve top documents per topic: " + str(topics_end - topics_start))
 
 from gensim.test.utils import datapath
-saved_model = datapath("0628_model")
+saved_model = datapath(config['model_datapath'])
 model.save(saved_model)
 
 top_topics = model.top_topics(corpus)
@@ -102,4 +66,49 @@ print('Average topic coherence: %.4f.' % avg_topic_coherence)
 from pprint import pprint
 pprint(top_topics)
 print("LDA on full corpus complete!")
+
+with open(config['topic_output'], 'w') as writer:
+    for i in range(100):
+        writer.write(f"TOPIC {i}:\n")
+        writer.write(model.print_topic(i, topn=20))
+        writer.write("\n")
+
+# # DOCUMENT TOPICS BEFORE SAVING
+# topics_start = time()
+
+# # read corpus to include the email ID
+# with open(config['df_pickle'], "rb") as f:
+#     df = pickle.load(f)
+
+
+# # initialize dictionary with desired topics
+# interesting_topics = config['top_topics'] # add topic IDs manually
+# top_documents = {}
+# for id in top_topics:
+#     top_documents[id] = []
+# print("initialized dictionary for top topics")
+
+# # iterate through emails to find each top topic
+# assert len(corpus) == df.shape[0]
+# for i in range(len(corpus)):
+#     email_id = df.at[i, "uid_email"]
+#     doc_topics = model.get_document_topics(corpus[i], minimum_probability=None, minimum_phi_value=None, per_word_topics=False)
+#     for pair in doc_topics:
+#         topic_id = pair[0]
+#         probability = pair[1]
+#         if topic_id in top_topics:
+#             top_documents[topic_id].append((email_id, probability))
+# print("populated dictionary with documents")
+
+# # sort the documents corresponding to each topic and get the top 5 documents per topic
+# for id in top_topics:
+#     top_documents[id].sort(key=lambda probability: probability[1], reverse=True)
+#     top_documents[id] = top_documents[id][0:5]
+# print(top_documents)
+
+# with open(config['presave_pickle'], "wb") as t:
+#     pickle.dump(top_documents, t)
+
+# topics_end = time()
+# print("Time to retrieve top documents per topic: " + str(topics_end - topics_start))
 
