@@ -54,7 +54,7 @@ def nearest_neighbors(sents):
 
 
 def very_similar(sents, threshold=0.98):
-    neighbor_sents = model.search(sents)
+    neighbor_sents = model.search(sents, threshold=threshold, top_k=10)
     all_buddies = set()
     for neighborhood in neighbor_sents:
         index = 0
