@@ -4,7 +4,7 @@
 
 # PRE-PROCESSING
 dataset: corpus_sample/filtered_corpus.csv
-df_pickle: pickle/0716_df
+df_pickle: 
 include_named_entities: True
 dict_filter:
   # lower-bound, remove words that occur in less than _ documents
@@ -26,3 +26,8 @@ cutoff_by_threshold: True
 num_docs: 20
 threshold: 0.6
 docs_pickle: pickle/0716_docs
+
+# SUBSET TOKENIZING
+subset: corpus_sample/keyword_subset.csv
+subset_df_pickle: pickle/0725_subset_df
+tokens_pickle: pickle/0725_tokens
