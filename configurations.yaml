@@ -1,0 +1,33 @@
+# YAML SETUP:
+# with open('topic_modeling.yaml', 'r') as file:
+#     config = yaml.safe_load(file)
+
+# PRE-PROCESSING
+dataset: corpus_sample/filtered_corpus.csv
+df_pickle: pickle/0630_df
+include_named_entities: True
+dict_filter:
+  # lower-bound, remove words that occur in less than _ documents
+  lower: 3000
+  # upper-bound, remove words that occur in more than _% of documents
+  upper: 0.5
+dict_pickle: pickle/0630_df
+corpus_pickle: pickle/0630_corpus
+
+# LDA MODEL
+num_topics: 100
+num_passes: 40
+model_datapath: 0630_model
+topic_output: LDA_output/0716_output.txt
+
+# DOCUMENT TOPICS
+top_topics: [0, 23, 51, 65, 70]
+cutoff_by_threshold: False
+num_docs: 10
+threshold: 0.6
+docs_pickle: pickle/0727_docs
+
+# SUBSET TOKENIZING
+subset: corpus_sample/primary_candidates_crime_subset.csv
+# subset_df_pickle: pickle/0725_subset_df
+tokens_pickle: pickle/primary_candidates_crime_tokens_original_case

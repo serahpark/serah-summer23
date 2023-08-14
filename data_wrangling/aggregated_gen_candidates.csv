@@ -1,0 +1,370 @@
+,name,office_sought,party_affiliation,office_level,district_type,body_text,total_emails_sent,last_name,state,opponent,opponent_last_name,is_black
+0,Aaron Godfrey,U.S. House Ohio District 16,Democratic Party,Federal,Congress,42.0,42.0,Godfrey,Ohio,Anthony Gonzalez,Gonzalez,False
+1,Aaron Swisher,U.S. House Idaho District 2,Democratic Party,Federal,Congress,17.0,17.0,Swisher,Idaho,Michael K Simpson,Simpson,False
+2,Abby Broyles,U.S. Senate Oklahoma,Democratic Party,Federal,State,306.0,306.0,Broyles,Oklahoma,Jim Inhofe ,Inhofe,False
+3,Abigail Spanberger,U.S. House Virginia District 7,Democratic Party,Federal,Congress,478.0,478.0,Spanberger,Virginia,Nick J Freitas,Freitas,False
+4,Adair Boroughs,U.S. House South Carolina District 2,Democratic Party,Federal,Congress,1090.0,1090.0,Boroughs,South Carolina,Joe Wilson,Wilson,False
+5,Adam Christensen,U.S. House Florida District 3,Democratic Party,Federal,Congress,41.0,41.0,Christensen,Florida,Kat Cammack,Cammack,False
+6,Adam Schiff,U.S. House California District 28,Democratic Party,Federal,Congress,38.0,38.0,Schiff,California,Eric Early,Early,False
+7,Adrienne Bell,U.S. House Texas District 14,Democratic Party,Federal,Congress,99.0,99.0,Bell,Texas,Randy K Weber Sr,Sr,False
+8,Al Green,U.S. House Texas District 9,Democratic Party,Federal,Congress,1256.0,1257.0,Green,Texas,Johnny Teague,Teague,False
+9,Al Gross,U.S. Senate Alaska,Independent,Federal,State,287.0,287.0,Gross,Alaska,Dan Sullivan,Sullivan,False
+10,Alaina Shearer,U.S. House Ohio District 12,Democratic Party,Federal,Congress,108.0,108.0,Shearer,Ohio,Troy Balderson,Balderson,False
+11,Alan Cohn,U.S. House Florida District 15,Democratic Party,Federal,Congress,314.0,314.0,Cohn,Florida,Scott Franklin,Franklin,False
+12,Alek Skarlatos,U.S. House Oregon District 4,Republican Party,Federal,Congress,4680.0,4680.0,Skarlatos,Oregon,Peter A Defazio,Defazio,False
+13,Alexandra Owensby,U.S. House Kentucky District 4,Democratic Party,Federal,Congress,23.0,23.0,Owensby,Kentucky,Thomas Massie,Massie,False
+14,Alexandria Ocasio-Cortez,U.S. House New York District 14,Democratic Party,Federal,Congress,329.0,329.0,Ocasio-Cortez,New York,John C Cummings,Cummings,False
+15,Aliscia Andrews,U.S. House Virginia District 10,Republican Party,Federal,Congress,117.0,117.0,Andrews,Virginia,Jennifer Wexton,Wexton,False
+16,Alma Adams,U.S. House North Carolina District 12,Democratic Party,Federal,Congress,40.0,40.0,Adams,North Carolina,none,none,False
+17,Alyse Galvin,U.S. House Alaska At-large District,Democratic Party,Federal,Congress,248.0,248.0,Galvin,Alaska,Don Young,Young,False
+18,Amanda Stuck,U.S. House Wisconsin District 8,Democratic Party,Federal,Congress,1042.0,1042.0,Stuck,Wisconsin,Mike Gallagher,Gallagher,False
+19,Andrew Garbarino,U.S. House New York District 2,Serve America Movement Party,Federal,Congress,64.0,64.0,Garbarino,New York,Jackie Gordon,Gordon,True
+20,Andrew Kim,U.S. House New Jersey District 3,Democratic Party,Federal,Congress,184.0,184.0,Kim,New Jersey,David Richter,Richter,False
+21,Andy Barr,U.S. House Kentucky District 6,Republican Party,Federal,Congress,76.0,76.0,Barr,Kentucky,Josh Hicks,Hicks,False
+22,Andy Biggs,U.S. House Arizona District 5,Republican Party,Federal,Congress,55.0,55.0,Biggs,Arizona,Joan Greene,Greene,False
+23,Andy Caldwell,U.S. House California District 24,Republican Party,Federal,Congress,21.0,21.0,Caldwell,California,Salud O Carbajal,Carbajal,False
+24,Andy Ruff,U.S. House Indiana District 9,Democratic Party,Federal,Congress,46.0,46.0,Ruff,Indiana,Trey Hollingsworth,Hollingsworth,False
+25,Angie Craig,U.S. House Minnesota District 2,Democratic Party,Federal,Congress,319.0,320.0,Craig,Minnesota,Tyler Kistner,Kistner,False
+26,Ann Kirkpatrick,U.S. House Arizona District 2,Democratic Party,Federal,Congress,210.0,210.0,Kirkpatrick,Arizona,Brandon Martin,Martin,False
+27,Ann Wagner,U.S. House Missouri District 2,Republican Party,Federal,Congress,241.0,241.0,Wagner,Missouri,Jill Schupp,Schupp,False
+28,Annie Kuster,U.S. House New Hampshire District 2,Democratic Party,Federal,Congress,276.0,276.0,Kuster,New Hampshire,Steven Negron,Negron,False
+29,Anthony Brindisi,U.S. House New York District 22,Democratic Party,Federal,Congress,509.0,513.0,Brindisi,New York,Claudia Tenney,Tenney,False
+30,Anthony Brown,U.S. House Maryland District 4,Democratic Party,Federal,Congress,23.0,23.0,Brown,Maryland,George E Mcdermott,Mcdermott,False
+31,Antonio Delgado,U.S. House New York District 19,Democratic Party,Federal,Congress,154.0,154.0,Delgado,New York,Kyle Van De Water,Water,True
+32,Ashley Hinson,U.S. House Iowa District 1,Republican Party,Federal,Congress,197.0,197.0,Hinson,Iowa,Abby Finkenauer,Finkenauer,False
+33,Audrey Denney,U.S. House California District 1,Democratic Party,Federal,Congress,292.0,292.0,Denney,California,Doug Lamalfa,Lamalfa,False
+34,August Pfluger,U.S. House Texas District 11,Republican Party,Federal,Congress,14.0,14.0,Pfluger,Texas,Jon Mark Hogg,Hogg,False
+35,Barbara Bollier,U.S. Senate Kansas,Democratic Party,Federal,State,1842.0,1842.0,Bollier,Kansas,Roger Marshall,Marshall,False
+36,Ben Ray Lujan,U.S. Senate New Mexico,Democratic Party,Federal,State,459.0,459.0,Lujan,New Mexico,Mark V. Ronchetti,Ronchetti,False
+37,Ben Sasse,U.S. Senate Nebraska,Republican Party,Federal,State,40.0,40.0,Sasse,Nebraska,Chris Janicek,Janicek,False
+38,Beth Doglio,U.S. House Washington District 10,Democratic Party,Federal,Congress,1810.0,1810.0,Doglio,Washington,Marilyn Strickland,Strickland,True
+39,Beth Van Duyne,U.S. House Texas District 24,Republican Party,Federal,Congress,130.0,130.0,Duyne,Texas,Candace Valenzuela,Valenzuela,True
+40,Bill Hagerty,U.S. Senate Tennessee,Republican Party,Federal,State,205.0,205.0,Hagerty,Tennessee,Marquita Bradshaw,Bradshaw,True
+41,Bill Olson,U.S. House Florida District 9,Republican Party,Federal,Congress,100.0,100.0,Olson,Florida,Darren Soto,Soto,False
+42,Blair Walsingham,U.S. House Tennessee District 1,Democratic Party,Federal,Congress,27.0,27.0,Walsingham,Tennessee,Diana Harshbarger,Harshbarger,False
+43,Brad Schneider,U.S. House Illinois District 10,Democratic Party,Federal,Congress,257.0,257.0,Schneider,Illinois,Valerie Ramirez Mukherjee,Mukherjee,False
+44,Brad Wenstrup,U.S. House Ohio District 2,Republican Party,Federal,Congress,54.0,54.0,Wenstrup,Ohio,Jaime M Castle,Castle,False
+45,Brian Babin,U.S. House Texas District 36,Republican Party,Federal,Congress,35.0,35.0,Babin,Texas,Rashad Lewis,Lewis,True
+46,Brian Fitzpatrick,U.S. House Pennsylvania District 1,Republican Party,Federal,Congress,112.0,112.0,Fitzpatrick,Pennsylvania,Christina Finello,Finello,False
+47,Brian Maryott,U.S. House California District 49,Republican Party,Federal,Congress,231.0,231.0,Maryott,California,Mike Levin,Levin,False
+48,Brian Mast,U.S. House Florida District 18,Republican Party,Federal,Congress,337.0,337.0,Mast,Florida,Pam Keith,Keith,True
+49,Bryan Berghoef,U.S. House Michigan District 2,Democratic Party,Federal,Congress,216.0,216.0,Berghoef,Michigan,Bill Huizenga,Huizenga,False
+50,"Bryant ""Corky"" Messner",U.S. Senate New Hampshire,Republican Party,Federal,State,208.0,208.0,Messner,New Hampshire,Jeanne Shaheen,Shaheen,False
+51,Brynne Kennedy,U.S. House California District 4,Democratic Party,Federal,Congress,2692.0,2901.0,Kennedy,California,Tom Mcclintock,Mcclintock,False
+52,Cal Cunningham,U.S. Senate North Carolina,Democratic Party,Federal,State,177.0,177.0,Cunningham,North Carolina,Thom Tillis,Tillis,False
+53,Candace Valenzuela,U.S. House Texas District 24,Democratic Party,Federal,Congress,1163.0,1163.0,Valenzuela,Texas,Beth Van Duyne,Duyne,False
+54,Carlos Gimenez,U.S. House Florida District 26,Republican Party,Federal,Congress,120.0,120.0,Gimenez,Florida,Debbie Mucarsel-Powell,Mucarsel-Powell,False
+55,Carolyn Maloney,U.S. House New York District 12,Democratic Party,Federal,Congress,290.0,290.0,Maloney,New York,Carlos Santiago-Cano,Santiago-Cano,False
+56,Carolyn Maloney,U.S. House New York District 12,Democratic Party,Federal,Congress,290.0,290.0,Maloney,New York,Chele C Farley,Farley,False
+58,Sean Maloney,U.S. House New York District 18,Democratic Party,Federal,Congress,7880.0,7880.0,Maloney,New York,Chele C Farley,Farley,False
+59,Carolyn Bourdeaux,U.S. House Georgia District 7,Democratic Party,Federal,Congress,306.0,306.0,Bourdeaux,Georgia,Rich Mccormick,Mccormick,False
+60,Celeste Williams,U.S. House Arkansas District 3,Democratic Party,Federal,Congress,423.0,423.0,Williams,Arkansas,Steve Womack,Womack,False
+61,Charles Winn,U.S. House Colorado District 2,Republican Party,Federal,Congress,31.0,31.0,Winn,Colorado,Joe Neguse,Neguse,True
+62,Chele Farley,U.S. House New York District 18,Republican Party,Federal,Congress,108.0,108.0,Farley,New York,Sean Patrick Maloney,Maloney,False
+63,Chellie Pingree,U.S. House Maine District 1,Democratic Party,Federal,Congress,32.0,32.0,Pingree,Maine,Jay T Allen,Allen,False
+64,Chip Coldiron,U.S. House Indiana District 3,Democratic Party,Federal,Congress,70.0,70.0,Coldiron,Indiana,Jim Banks,Banks,False
+65,Chip Roy,U.S. House Texas District 21,Republican Party,Federal,Congress,320.0,320.0,Roy,Texas,Wendy R Davis,Davis,False
+66,Christine Bubser,U.S. House California District 8,Democratic Party,Federal,Congress,262.0,262.0,Bubser,California,Jay Obernolte,Obernolte,False
+67,Chris Coons,U.S. Senate Delaware,Democratic Party,Federal,State,94.0,94.0,Coons,Delaware,Lauren Witzke,Witzke,False
+68,Chris Janicek,U.S. Senate Nebraska,Democratic Party,Federal,State,41.0,42.0,Janicek,Nebraska,Ben Sasse,Sasse,False
+69,Chris Palombi,U.S. House Maryland District 5,Republican Party,Federal,Congress,40.0,40.0,Palombi,Maryland,Steny H Hoyer,Hoyer,False
+70,Chris Pappas,U.S. House New Hampshire District 1,Democratic Party,Federal,Congress,241.0,241.0,Pappas,New Hampshire,Matt Mowers,Mowers,False
+71,Chris Stewart,U.S. House Utah District 2,Republican Party,Federal,Congress,32.0,32.0,Stewart,Utah,Kael Weston,Weston,False
+72,Christina Finello,U.S. House Pennsylvania District 1,Democratic Party,Federal,Congress,1764.0,1764.0,Finello,Pennsylvania,Brian K Fitzpatrick,Fitzpatrick,False
+73,Christina Hagan,U.S. House Ohio District 13,Republican Party,Federal,Congress,47.0,47.0,Hagan,Ohio,Tim Ryan,Ryan,False
+74,Christina Hale,U.S. House Indiana District 5,Democratic Party,Federal,Congress,265.0,267.0,Hale,Indiana,Victoria Spartz,Spartz,False
+75,Christopher Hale,U.S. House Tennessee District 4,Democratic Party,Federal,Congress,110.0,110.0,Hale,Tennessee,Scott Desjarlais,Desjarlais,False
+76,Chris Jacobs,U.S. House New York District 27,Republican Party,Federal,Congress,156.0,156.0,Jacobs,New York,Nathan D Mcmurray,Mcmurray,False
+77,Christy Smith,U.S. House California District 25,Democratic Party,Federal,Congress,205.0,205.0,Smith,California,Mike Garcia,Garcia,False
+79,Cindy Axne,U.S. House Iowa District 3,Democratic Party,Federal,Congress,1429.0,1429.0,Axne,Iowa,David Young,Young,False
+80,Cindy Banyai,U.S. House Florida District 19,Democratic Party,Federal,Congress,119.0,119.0,Banyai,Florida,Byron Donalds,Donalds,True
+81,Claudia Tenney,U.S. House New York District 22,Republican Party,Federal,Congress,191.0,191.0,Tenney,New York,Anthony J Brindisi,Brindisi,False
+82,Cliff Bentz,U.S. House Oregon District 2,Republican Party,Federal,Congress,13.0,13.0,Bentz,Oregon,Alex Spenser,Spenser,False
+83,Cori Bush,U.S. House Missouri District 1,Democratic Party,Federal,Congress,99.0,99.0,Bush,Missouri,Anthony Rogers,Rogers,False
+84,Cory Booker,U.S. Senate New Jersey,Democratic Party,Federal,State,242.0,242.0,Booker,New Jersey,"Rikin ""Rik"" Mehta",Mehta,False
+85,Dale Crafts,U.S. House Maine District 2,Republican Party,Federal,Congress,159.0,159.0,Crafts,Maine,Jared F Golden,Golden,False
+86,Dan Ahlers,U.S. Senate South Dakota,Democratic Party,Federal,State,56.0,56.0,Ahlers,South Dakota,Mike Rounds,Rounds,False
+87,Dan Bishop,U.S. House North Carolina District 9,Republican Party,Federal,Congress,32.0,32.0,Bishop,North Carolina,Cynthia L Wallace,Wallace,True
+88,Dan Kildee,U.S. House Michigan District 5,Democratic Party,Federal,Congress,206.0,206.0,Kildee,Michigan,Tim Kelly,Kelly,False
+89,Dan Meuser,U.S. House Pennsylvania District 9,Republican Party,Federal,Congress,65.0,65.0,Meuser,Pennsylvania,Gary Steven Wegman,Wegman,False
+90,Dana Alan Ferguson,U.S. House Michigan District 1,Democratic Party,Federal,Congress,125.0,125.0,Ferguson,Michigan,Jack Bergman,Bergman,False
+91,Dana Balter,U.S. House New York District 24,Democratic Party,Federal,Congress,340.0,340.0,Balter,New York,John M Katko,Katko,False
+92,Dana Barrett,U.S. House Georgia District 11,Democratic Party,Federal,Congress,120.0,120.0,Barrett,Georgia,Barry Loudermilk,Loudermilk,False
+93,Dana Cottrell,U.S. House Florida District 11,Democratic Party,Federal,Congress,15.0,15.0,Cottrell,Florida,Daniel Webster,Webster,False
+94,Daniel Crenshaw,U.S. House Texas District 2,Republican Party,Federal,Congress,72.0,72.0,Crenshaw,Texas,Sima Ladjevardian,Ladjevardian,False
+95,Daniel Rodimer,U.S. House Nevada District 3,Republican Party,Federal,Congress,127.0,127.0,Rodimer,Nevada,Susie Lee,Lee,False
+96,Darrell Issa,U.S. House California District 50,Republican Party,Federal,Congress,20.0,20.0,Issa,California,Ammar Campa-Najjar,Campa-Najjar,False
+97,Darren Soto,U.S. House Florida District 9,Democratic Party,Federal,Congress,14.0,14.0,Soto,Florida,"William P ""Bill"" Olson",Olson,False
+98,David Price,U.S. House North Carolina District 4,Democratic Party,Federal,Congress,138.0,244.0,Price,North Carolina,Robert Thomas,Thomas,False
+99,David Richter,U.S. House New Jersey District 2,Republican Party,Federal,Congress,50.0,50.0,Richter,New Jersey,Andy Kim,Kim,False
+100,David Richter,U.S. House New Jersey District 3,Republican Party,Federal,Congress,16.0,16.0,Richter,New Jersey,Andy Kim,Kim,False
+101,David Young,U.S. House Iowa District 3,Republican Party,Federal,Congress,195.0,195.0,Young,Iowa,Cynthia Axne,Axne,False
+102,Dean Phillips,U.S. House Minnesota District 3,Democratic Party,Federal,Congress,156.0,156.0,Phillips,Minnesota,Kendall Qualls,Qualls,True
+103,Debbie Dingell,U.S. House Michigan District 12,Democratic Party,Federal,Congress,77.0,77.0,Dingell,Michigan,Jeff Jones,Jones,False
+104,Debbie Lesko,U.S. House Arizona District 8,Republican Party,Federal,Congress,459.0,459.0,Lesko,Arizona,Michael Muscato,Muscato,False
+105,Debbie Mucarsel-Powell,U.S. House Florida District 26,Democratic Party,Federal,Congress,2554.0,2554.0,Mucarsel-Powell,Florida,Carlos Gimenez,Gimenez,False
+106,Debbie Wasserman Schultz,U.S. House Florida District 23,Democratic Party,Federal,Congress,112.0,112.0,Schultz,Florida,Carla Spalding,Spalding,True
+107,Deborah Ross,U.S. House North Carolina District 2,Democratic Party,Federal,Congress,375.0,375.0,Ross,North Carolina,Alan D Swain,Swain,False
+108,Derrick Van Orden,U.S. House Wisconsin District 3,Republican Party,Federal,Congress,72.0,72.0,Orden,Wisconsin,Ron Kind,Kind,False
+109,Desiree Tims,U.S. House Ohio District 10,Democratic Party,Federal,Congress,2790.0,2790.0,Tims,Ohio,Michael R Turner,Turner,False
+110,Diana Harshbarger,U.S. House Tennessee District 1,Republican Party,Federal,Congress,54.0,54.0,Harshbarger,Tennessee,Blair Walsingham,Walsingham,False
+111,Dick Durbin,U.S. Senate Illinois,Democratic Party,Federal,State,207.0,207.0,Durbin,Illinois,Mark Curran,Curran,False
+112,Dina Titus,U.S. House Nevada District 1,Democratic Party,Federal,Congress,60.0,60.0,Titus,Nevada,Joyce Bentley,Bentley,False
+113,Don Bacon,U.S. House Nebraska District 2,Republican Party,Federal,Congress,128.0,128.0,Bacon,Nebraska,Kara Eastman,Eastman,False
+114,Donald Cole,U.S. House Georgia District 2,Republican Party,Federal,Congress,19.0,19.0,Cole,Georgia,Sanford D Bishop Jr,Jr,False
+115,Donald Norcross,U.S. House New Jersey District 1,Democratic Party,Federal,Congress,51.0,51.0,Norcross,New Jersey,Claire H Gustafson,Gustafson,False
+116,Donna Deegan,U.S. House Florida District 4,Democratic Party,Federal,Congress,340.0,340.0,Deegan,Florida,John H Rutherford,Rutherford,False
+117,Donna Imam,U.S. House Texas District 31,Democratic Party,Federal,Congress,48.0,48.0,Imam,Texas,John R Carter,Carter,False
+118,Doug Jones,U.S. Senate Alabama,Democratic Party,Federal,State,241.0,242.0,Jones,Alabama,Tommy Tuberville,Tuberville,False
+119,Dusty Johnson,U.S. House South Dakota At-large District,Republican Party,Federal,Congress,10.0,10.0,Johnson,South Dakota,none,none,False
+120,Dutch Ruppersberger,U.S. House Maryland District 2,Democratic Party,Federal,Congress,50.0,50.0,Ruppersberger,Maryland,Johnny Ray Salling,Salling,False
+121,Dwight Evans,U.S. House Pennsylvania District 3,Democratic Party,Federal,Congress,69.0,69.0,Evans,Pennsylvania,Michael Harvey,Harvey,True
+122,Earl Blumenauer,U.S. House Oregon District 3,Democratic Party,Federal,Congress,86.0,86.0,Blumenauer,Oregon,Joanna Harbour,Harbour,False
+123,Ed Markey,U.S. Senate Massachusetts,Democratic Party,Federal,State,268.0,268.0,Markey,Massachusetts,Kevin J. O'Conner,O'Conner,False
+124,Ed Perlmutter,U.S. House Colorado District 7,Democratic Party,Federal,Congress,159.0,159.0,Perlmutter,Colorado,"Charles ""Casper"" Stockham",Stockham,True
+125,Elaine Luria,U.S. House Virginia District 2,Democratic Party,Federal,Congress,368.0,368.0,Luria,Virginia,Scott W Taylor,Taylor,False
+126,Elissa Slotkin,U.S. House Michigan District 8,Democratic Party,Federal,Congress,195.0,223.0,Slotkin,Michigan,Paul Junge,Junge,False
+127,Eric Early,U.S. House California District 28,Republican Party,Federal,Congress,22.0,22.0,Early,California,Adam B Schiff,Schiff,False
+128,Eric Esshaki,U.S. House Michigan District 11,Republican Party,Federal,Congress,103.0,103.0,Esshaki,Michigan,Haley M Stevens,Stevens,False
+129,Frank Pallotta,U.S. House New Jersey District 5,Republican Party,Federal,Congress,117.0,117.0,Pallotta,New Jersey,Josh Gottheimer,Gottheimer,False
+130,G.K. Butterfield,U.S. House North Carolina District 1,Democratic Party,Federal,Congress,120.0,120.0,Butterfield,North Carolina,Sandy Smith,Smith,False
+131,Gary Peters,U.S. Senate Michigan,Democratic Party,Federal,State,2055.0,2055.0,Peters,Michigan,John James,James,True
+132,Genevieve Collins,U.S. House Texas District 32,Republican Party,Federal,Congress,117.0,117.0,Collins,Texas,Colin Z Allred,Allred,True
+134,Georgette Gomez,U.S. House California District 53,Democratic Party,Federal,Congress,170.0,170.0,Gomez,California,Sara Jacobs,Jacobs,False
+135,Jimmy Gomez,U.S. House California District 34,Democratic Party,Federal,Congress,212.0,212.0,Gomez,California,David Kim,Kim,False
+137,Gerald Edward Connolly,U.S. House Virginia District 11,Democratic Party,Federal,Congress,207.0,207.0,Connolly,Virginia,Manga A Anantatmula,Anantatmula,False
+138,Gina Ortiz Jones,U.S. House Texas District 23,Democratic Party,Federal,Congress,774.0,774.0,Jones,Texas,Tony Gonzales,Gonzales,False
+139,Glenn Grothman,U.S. House Wisconsin District 6,Republican Party,Federal,Congress,69.0,69.0,Grothman,Wisconsin,Jessica J King,King,False
+140,Grace Meng,U.S. House New York District 6,Democratic Party,Federal,Congress,51.0,51.0,Meng,New York,Thomas J Zmich,Zmich,False
+141,Greg Pence,U.S. House Indiana District 6,Republican Party,Federal,Congress,38.0,38.0,Pence,Indiana,Jeannine Lee Lake,Lake,True
+142,Greg Raths,U.S. House California District 45,Republican Party,Federal,Congress,64.0,64.0,Raths,California,Katie Porter,Porter,False
+143,Gregory Coll,U.S. House Maryland District 8,Republican Party,Federal,Congress,21.0,21.0,Coll,Maryland,Jamie Raskin,Raskin,False
+144,Gretchen Driskell,U.S. House Michigan District 7,Democratic Party,Federal,Congress,649.0,649.0,Driskell,Michigan,Tim Walberg,Walberg,False
+145,Guy Reschenthaler,U.S. House Pennsylvania District 14,Republican Party,Federal,Congress,48.0,48.0,Reschenthaler,Pennsylvania,William A Marx,Marx,False
+146,Gwen Moore,U.S. House Wisconsin District 4,Democratic Party,Federal,Congress,22.0,22.0,Moore,Wisconsin,Tim Rogers,Rogers,True
+147,Haley Stevens,U.S. House Michigan District 11,Democratic Party,Federal,Congress,257.0,257.0,Stevens,Michigan,Eric S Esshaki,Esshaki,False
+148,Hank Johnson,U.S. House Georgia District 4,Democratic Party,Federal,Congress,224.0,224.0,Johnson,Georgia,Rick W Allen,Allen,False
+149,Harley Rouda,U.S. House California District 48,Democratic Party,Federal,Congress,980.0,981.0,Rouda,California,Michelle Steel,Steel,False
+150,Henry Cuellar,U.S. House Texas District 28,Democratic Party,Federal,Congress,81.0,81.0,Cuellar,Texas,Sandra Whitten,Whitten,False
+151,Hillary O'Connor Mueri,U.S. House Ohio District 14,Democratic Party,Federal,Congress,356.0,356.0,Mueri,Ohio,David P Joyce,Joyce,False
+152,Hillary Scholten,U.S. House Michigan District 3,Democratic Party,Federal,Congress,842.0,842.0,Scholten,Michigan,Peter Meijer,Meijer,False
+153,Ilhan Omar,U.S. House Minnesota District 5,Democratic Party,Federal,Congress,220.0,220.0,Omar,Minnesota,Lacy Johnson,Johnson,True
+154,J.D. Scholten,U.S. House Iowa District 4,Democratic Party,Federal,Congress,231.0,231.0,Scholten,Iowa,Randy Feenstra,Feenstra,False
+155,Jack Bergman,U.S. House Michigan District 1,Republican Party,Federal,Congress,33.0,33.0,Bergman,Michigan,Dana Ferguson,Ferguson,False
+156,Jack Reed,U.S. Senate Rhode Island,Democratic Party,Federal,State,18.0,18.0,Reed,Rhode Island,Allen R. Waters,Waters,False
+157,Jackie Gordon,U.S. House New York District 2,Democratic Party,Federal,Congress,443.0,443.0,Gordon,New York,Andrew R Garbarino,Garbarino,False
+158,Jahana Hayes,U.S. House Connecticut District 5,Democratic Party,Federal,Congress,43.0,43.0,Hayes,Connecticut,David X Sullivan,Sullivan,False
+159,Jaime Harrison,U.S. Senate South Carolina,Democratic Party,Federal,State,1087.0,1087.0,Harrison,South Carolina,Lindsey Graham,Graham,False
+160,Jaime Herrera Beutler,U.S. House Washington District 3,Republican Party,Federal,Congress,111.0,111.0,Beutler,Washington,Carolyn Long,Long,False
+161,Jake Auchincloss,U.S. House Massachusetts District 4,Democratic Party,Federal,Congress,58.0,58.0,Auchincloss,Massachusetts,Julie A Hall,Hall,False
+162,Jamaal Bowman,U.S. House New York District 16,Democratic Party,Federal,Congress,378.0,378.0,Bowman,New York,none,none,False
+163,James Clyburn,U.S. House South Carolina District 6,Democratic Party,Federal,Congress,137.0,137.0,Clyburn,South Carolina,John Mccollum,Mccollum,False
+164,Jared Golden,U.S. House Maine District 2,Democratic Party,Federal,Congress,182.0,182.0,Golden,Maine,Dale John Crafts,Crafts,False
+165,Jared Huffman,U.S. House California District 2,Democratic Party,Federal,Congress,51.0,51.0,Huffman,California,Dale K Mensing,Mensing,False
+166,Jason Crow,U.S. House Colorado District 6,Democratic Party,Federal,Congress,198.0,198.0,Crow,Colorado,Steve House,House,False
+167,Jason Smith,U.S. House Missouri District 8,Republican Party,Federal,Congress,58.0,58.0,Smith,Missouri,Kathy Ellis,Ellis,False
+168,Jeanne Shaheen,U.S. Senate New Hampshire,Democratic Party,Federal,State,1634.0,1634.0,Shaheen,New Hampshire,Corky Messner,Messner,False
+169,Jeff Merkley,U.S. Senate Oregon,Democratic Party,Federal,State,45.0,45.0,Merkley,Oregon,Jo Rae Perkins,Perkins,False
+170,Jerrold Nadler,U.S. House New York District 10,Democratic Party,Federal,Congress,253.0,253.0,Nadler,New York,Cathy A Bernstein,Bernstein,False
+171,Jill Schupp,U.S. House Missouri District 2,Democratic Party,Federal,Congress,1326.0,1326.0,Schupp,Missouri,Ann Wagner,Wagner,False
+172,Jim Banks,U.S. House Indiana District 3,Republican Party,Federal,Congress,62.0,62.0,Banks,Indiana,Chip Coldiron,Coldiron,False
+173,Jim Bognet,U.S. House Pennsylvania District 8,Republican Party,Federal,Congress,143.0,143.0,Bognet,Pennsylvania,Matthew Alton Cartwright,Cartwright,False
+174,Jim Langevin,U.S. House Rhode Island District 2,Democratic Party,Federal,Congress,50.0,50.0,Langevin,Rhode Island,Robert B Lancia,Lancia,False
+175,Jim Oberweis,U.S. House Illinois District 14,Republican Party,Federal,Congress,69.0,69.0,Oberweis,Illinois,Lauren Underwood,Underwood,True
+176,Joe Courtney,U.S. House Connecticut District 2,Democratic Party,Federal,Congress,24.0,24.0,Courtney,Connecticut,Justin Anderson,Anderson,False
+177,Joe Cunningham,U.S. House South Carolina District 1,Democratic Party,Federal,Congress,392.0,392.0,Cunningham,South Carolina,Nancy Mace,Mace,False
+178,Joe Neguse,U.S. House Colorado District 2,Democratic Party,Federal,Congress,32.0,32.0,Neguse,Colorado,Charlie Winn,Winn,False
+179,Joel Newby,U.S. House Ohio District 15,Democratic Party,Federal,Congress,96.0,96.0,Newby,Ohio,Steve Stivers,Stivers,False
+180,John Cornyn,U.S. Senate Texas,Republican Party,Federal,State,792.0,792.0,Cornyn,Texas,"Mary ""Mj"" Hegar",Hegar,False
+181,John Cummings,U.S. House New York District 14,Republican Party,Federal,Congress,244.0,244.0,Cummings,New York,Alexandria Ocasio-Cortez,Ocasio-Cortez,False
+182,John Emmons,U.S. House Pennsylvania District 6,Republican Party,Federal,Congress,104.0,104.0,Emmons,Pennsylvania,Chrissy J Houlahan,Houlahan,False
+183,John Garamendi,U.S. House California District 3,Democratic Party,Federal,Congress,36.0,36.0,Garamendi,California,Tamika Hamilton,Hamilton,True
+184,John Hickenlooper,U.S. Senate Colorado,Democratic Party,Federal,State,670.0,670.0,Hickenlooper,Colorado,Cory Gardner,Gardner,False
+185,John James,U.S. Senate Michigan,Republican Party,Federal,State,209.0,209.0,James,Michigan,Gary Peters,Peters,False
+186,John Kael Weston,U.S. House Utah District 2,Democratic Party,Federal,Congress,46.0,46.0,Weston,Utah,Chris Stewart,Stewart,False
+187,John Moolenaar,U.S. House Michigan District 4,Republican Party,Federal,Congress,121.0,121.0,Moolenaar,Michigan,Jerry Hilliard,Hilliard,False
+188,John Sarbanes,U.S. House Maryland District 3,Democratic Party,Federal,Congress,118.0,118.0,Sarbanes,Maryland,Charles Anthony,Anthony,False
+189,Johnny Nalbandian,U.S. House California District 27,Republican Party,Federal,Congress,11.0,11.0,Nalbandian,California,Judy Chu,Chu,False
+190,Jon Hoadley,U.S. House Michigan District 6,Democratic Party,Federal,Congress,415.0,415.0,Hoadley,Michigan,Fred Upton,Upton,False
+191,Jon Ossoff,U.S. Senate Georgia,Democratic Party,Federal,State,763.0,763.0,Ossoff,Georgia,David A. Perdue,Perdue,False
+192,Josh Hicks,U.S. House Kentucky District 6,Democratic Party,Federal,Congress,252.0,252.0,Hicks,Kentucky,Andy Barr,Barr,False
+193,Joshua Scott,U.S. House California District 32,Republican Party,Federal,Congress,14.0,14.0,Scott,California,Grace F Napolitano,Napolitano,False
+194,Julia Brownley,U.S. House California District 26,Democratic Party,Federal,Congress,420.0,420.0,Brownley,California,Ronda Baldwin-Kennedy,Baldwin-Kennedy,True
+195,Julie Oliver,U.S. House Texas District 25,Democratic Party,Federal,Congress,158.0,158.0,Oliver,Texas,Roger Williams,Williams,False
+196,Kali Barnett,U.S. House Kansas District 1,Democratic Party,Federal,Congress,659.0,659.0,Barnett,Kansas,Tracey Mann,Mann,False
+197,Kara Eastman,U.S. House Nebraska District 2,Democratic Party,Federal,Congress,118.0,118.0,Eastman,Nebraska,Don Bacon,Bacon,False
+198,Karen Bass,U.S. House California District 37,Democratic Party,Federal,Congress,27.0,27.0,Bass,California,Errol Webber,Webber,True
+199,Kat Cammack,U.S. House Florida District 3,Republican Party,Federal,Congress,136.0,136.0,Cammack,Florida,Adam Christensen,Christensen,False
+200,Kate Bolz,U.S. House Nebraska District 1,Democratic Party,Federal,Congress,272.0,272.0,Bolz,Nebraska,Jeff Fortenberry,Fortenberry,False
+201,Kathleen Williams,U.S. House Montana At-large District,Democratic Party,Federal,Congress,281.0,281.0,Williams,Montana,Matt Rosendale,Rosendale,False
+202,Kathy Ellis,U.S. House Missouri District 8,Democratic Party,Federal,Congress,123.0,123.0,Ellis,Missouri,Jason Smith,Smith,False
+203,Kathy Manning,U.S. House North Carolina District 6,Democratic Party,Federal,Congress,167.0,167.0,Manning,North Carolina,Lee Haywood,Haywood,False
+204,Katie Porter,U.S. House California District 45,Democratic Party,Federal,Congress,486.0,486.0,Porter,California,Greg Raths,Raths,False
+205,Kelly Loeffler,U.S. Senate Georgia,Republican Party,Federal,State,271.0,271.0,Loeffler,Georgia,Raphael Warnock,Warnock,True
+206,Ken Calvert,U.S. House California District 42,Republican Party,Federal,Congress,50.0,50.0,Calvert,California,"William ""Liam"" O'Mara",O'Mara,False
+207,Kendall Qualls,U.S. House Minnesota District 3,Republican Party,Federal,Congress,79.0,79.0,Qualls,Minnesota,Dean Phillips,Phillips,False
+208,Kendra Horn,U.S. House Oklahoma District 5,Democratic Party,Federal,Congress,17.0,17.0,Horn,Oklahoma,Stephanie Bice,Bice,False
+209,Kevin Hern,U.S. House Oklahoma District 1,Republican Party,Federal,Congress,14.0,14.0,Hern,Oklahoma,Kojo Asamoa-Caesar,Asamoa-Caesar,True
+210,Kim Nelson,U.S. House South Carolina District 4,Democratic Party,Federal,Congress,38.0,38.0,Nelson,South Carolina,William R Timmons Iv,Iv,False
+211,Kiran Sreepada,U.S. House Tennessee District 7,Democratic Party,Federal,Congress,41.0,41.0,Sreepada,Tennessee,Mark E Green,Green,False
+212,Kojo Asamoa-Caesar,U.S. House Oklahoma District 1,Democratic Party,Federal,Congress,17.0,17.0,Asamoa-Caesar,Oklahoma,Kevin Hern,Hern,False
+213,Kristy Gnibus,U.S. House Pennsylvania District 16,Democratic Party,Federal,Congress,825.0,825.0,Gnibus,Pennsylvania,George J Kelly Jr,Jr,False
+214,Lacy Johnson,U.S. House Minnesota District 5,Republican Party,Federal,Congress,52.0,52.0,Johnson,Minnesota,Ilhan Omar,Omar,False
+215,Laura Loomer,U.S. House Florida District 21,Republican Party,Federal,Congress,155.0,155.0,Loomer,Florida,Lois Frankel,Frankel,False
+216,Lauren Boebert,U.S. House Colorado District 3,Republican Party,Federal,Congress,198.0,198.0,Boebert,Colorado,Diane E Mitsch Bush,Bush,False
+217,Lauren Underwood,U.S. House Illinois District 14,Democratic Party,Federal,Congress,488.0,488.0,Underwood,Illinois,Jim Oberweis,Oberweis,False
+218,Lee Griffin,U.S. House Pennsylvania District 12,Democratic Party,Federal,Congress,22.0,22.0,Griffin,Pennsylvania,Frederick B Keller,Keller,False
+219,Lee Zeldin,U.S. House New York District 1,Republican Party,Federal,Congress,342.0,342.0,Zeldin,New York,Nancy S Goroff,Goroff,False
+220,Linda Sanchez,U.S. House California District 38,Democratic Party,Federal,Congress,140.0,140.0,Sanchez,California,Michael Tolar,Tolar,False
+221,Lindsey Graham,U.S. Senate South Carolina,Republican Party,Federal,State,638.0,638.0,Graham,South Carolina,Jaime Harrison,Harrison,True
+222,Lindsey Simmons,U.S. House Missouri District 4,Democratic Party,Federal,Congress,51.0,51.0,Simmons,Missouri,Vicky Hartzler,Hartzler,False
+223,Lisa Scheller,U.S. House Pennsylvania District 7,Republican Party,Federal,Congress,135.0,135.0,Scheller,Pennsylvania,Susan Ellis Wild,Wild,False
+224,Lisa Welch,U.S. House Texas District 12,Democratic Party,Federal,Congress,30.0,30.0,Welch,Texas,Kay Granger,Granger,False
+225,Lizzie Pannill Fletcher,U.S. House Texas District 7,Democratic Party,Federal,Congress,203.0,203.0,Fletcher,Texas,Wesley Hunt,Hunt,True
+226,Lois Frankel,U.S. House Florida District 21,Democratic Party,Federal,Congress,36.0,36.0,Frankel,Florida,Laura Loomer,Loomer,False
+227,Lori Trahan,U.S. House Massachusetts District 3,Democratic Party,Federal,Congress,52.0,52.0,Trahan,Massachusetts,none,none,False
+228,Lou Correa,U.S. House California District 46,Democratic Party,Federal,Congress,18.0,18.0,Correa,California,James S Waters,Waters,False
+229,Lovelynn Gwinn,U.S. House New York District 13,Republican Party,Federal,Congress,99.0,99.0,Gwinn,New York,Adriano Espaillat,Espaillat,False
+230,Luke Negron,U.S. House Pennsylvania District 18,Republican Party,Federal,Congress,11.0,11.0,Negron,Pennsylvania,Michael F Doyle Jr,Jr,False
+231,Lulu Seikaly,U.S. House Texas District 3,Democratic Party,Federal,Congress,4571.0,4577.0,Seikaly,Texas,Van Taylor,Taylor,False
+232,Madison Cawthorn,U.S. House North Carolina District 11,Republican Party,Federal,Congress,118.0,118.0,Cawthorn,North Carolina,Moe Davis,Davis,False
+233,Marc Veasey,U.S. House Texas District 33,Democratic Party,Federal,Congress,68.0,68.0,Veasey,Texas,Fabian Cordova Vasquez,Vasquez,False
+234,Margaret Good,U.S. House Florida District 16,Democratic Party,Federal,Congress,978.0,978.0,Good,Florida,Vern Buchanan,Buchanan,False
+235,Maria Elvira Salazar,U.S. House Florida District 27,Republican Party,Federal,Congress,126.0,126.0,Salazar,Florida,Donna E Shalala,Shalala,False
+236,Marie Newman,U.S. House Illinois District 3,Democratic Party,Federal,Congress,5994.0,5994.0,Newman,Illinois,Mike Fricilone,Fricilone,False
+237,Marjorie Taylor Greene,U.S. House Georgia District 14,Republican Party,Federal,Congress,107.0,107.0,Greene,Georgia,Kevin Van Ausdal,Ausdal,False
+238,Mark Kelly,U.S. Senate Arizona,Democratic Party,Federal,State,375.0,375.0,Kelly,Arizona,Martha Mcsally,Mcsally,False
+239,Mark Richardson,U.S. House Ohio District 3,Republican Party,Federal,Congress,11.0,11.0,Richardson,Ohio,Joyce Beatty,Beatty,True
+240,Mark Takano,U.S. House California District 41,Democratic Party,Federal,Congress,321.0,321.0,Takano,California,Aja Smith,Smith,False
+241,Mark Warner,U.S. Senate Virginia,Democratic Party,Federal,State,187.0,187.0,Warner,Virginia,Daniel M. Gade,Gade,False
+242,Marquita Bradshaw,U.S. Senate Tennessee,Democratic Party,Federal,State,238.0,238.0,Bradshaw,Tennessee,Bill Hagerty,Hagerty,False
+243,"Mary Jennings ""M.J."" Hegar",U.S. Senate Texas,Democratic Party,Federal,State,3353.0,3354.0,Hegar,Texas,John Cornyn,Cornyn,False
+244,Mary Miller,U.S. House Illinois District 15,Republican Party,Federal,Congress,22.0,22.0,Miller,Illinois,Erika C Weaver,Weaver,True
+245,Matt Mowers,U.S. House New Hampshire District 1,Republican Party,Federal,Congress,104.0,104.0,Mowers,New Hampshire,Chris Pappas,Pappas,False
+246,Matt Rosendale,U.S. House Montana At-large District,Republican Party,Federal,Congress,83.0,83.0,Rosendale,Montana,Kathleen Williams,Williams,False
+247,Mauricus Brown,U.S. House South Carolina District 5,Democratic Party,Federal,Congress,119.0,119.0,Brown,South Carolina,Ralph Norman,Norman,False
+248,Max Rose,U.S. House New York District 11,Democratic Party,Federal,Congress,252.0,252.0,Rose,New York,Nicole Malliotakis,Malliotakis,False
+249,Michael Waltz,U.S. House Florida District 6,Republican Party,Federal,Congress,62.0,62.0,Waltz,Florida,Clint Curtis,Curtis,False
+250,Michelle De La Isla,U.S. House Kansas District 2,Democratic Party,Federal,Congress,124.0,124.0,Isla,Kansas,Jake Laturner,Laturner,False
+251,Mike Espy,U.S. Senate Mississippi,Democratic Party,Federal,State,414.0,414.0,Espy,Mississippi,Cindy Hyde-Smith,Hyde-Smith,False
+252,Mike Garcia,U.S. House California District 25,Republican Party,Federal,Congress,41.0,41.0,Garcia,California,Christy Smith,Smith,False
+253,Mike Levin,U.S. House California District 49,Democratic Party,Federal,Congress,138.0,138.0,Levin,California,Brian Maryott,Maryott,False
+254,Mike Siegel,U.S. House Texas District 10,Democratic Party,Federal,Congress,1157.0,1157.0,Siegel,Texas,Michael T Mccaul,Mccaul,False
+255,Mike Thompson,U.S. House California District 5,Democratic Party,Federal,Congress,40.0,40.0,Thompson,California,Scott Giblin,Giblin,False
+256,Mikie Sherrill,U.S. House New Jersey District 11,Democratic Party,Federal,Congress,187.0,187.0,Sherrill,New Jersey,Rosemary Becchi,Becchi,False
+257,Mondaire Jones,U.S. House New York District 17,Democratic Party,Federal,Congress,173.0,173.0,Jones,New York,Maureen Mcardle Schulman,Schulman,False
+258,"Morris ""Moe"" Davis",U.S. House North Carolina District 11,Democratic Party,Federal,Congress,117.0,117.0,Davis,North Carolina,Madison Cawthorn,Cawthorn,False
+259,Nancy Mace,U.S. House South Carolina District 1,Republican Party,Federal,Congress,166.0,166.0,Mace,South Carolina,Joe Cunningham,Cunningham,False
+260,Nancy Pelosi,U.S. House California District 12,Democratic Party,Federal,Congress,399.0,399.0,Pelosi,California,Shahid Buttar,Buttar,False
+261,Nick Freitas,U.S. House Virginia District 7,Republican Party,Federal,Congress,595.0,595.0,Freitas,Virginia,Abigail Davis Spanberger,Spanberger,False
+262,Nick Rubando,U.S. House Ohio District 5,Democratic Party,Federal,Congress,41.0,41.0,Rubando,Ohio,Robert E Latta,Latta,False
+263,Nicole Malliotakis,U.S. House New York District 11,Republican Party,Federal,Congress,158.0,158.0,Malliotakis,New York,Max N Rose,Rose,False
+264,Pat Hackett,U.S. House Indiana District 2,Democratic Party,Federal,Congress,142.0,142.0,Hackett,Indiana,Jackie Walorski,Walorski,False
+265,Patricia Ackerman,U.S. House Nevada District 2,Democratic Party,Federal,Congress,436.0,436.0,Ackerman,Nevada,Mark E Amodei,Amodei,False
+266,Paulette E. Jordan,U.S. Senate Idaho,Democratic Party,Federal,State,141.0,141.0,Jordan,Idaho,Jim Risch,Risch,False
+267,Pete Stauber,U.S. House Minnesota District 8,Republican Party,Federal,Congress,60.0,60.0,Stauber,Minnesota,none,none,False
+268,Peter Meijer,U.S. House Michigan District 3,Republican Party,Federal,Congress,61.0,61.0,Meijer,Michigan,Hillary Scholten,Scholten,False
+269,Phil Arballo,U.S. House California District 22,Democratic Party,Federal,Congress,1995.0,1995.0,Arballo,California,Devin Nunes,Nunes,False
+270,Phil Ehr,U.S. House Florida District 1,Democratic Party,Federal,Congress,135.0,179.0,Ehr,Florida,Matt Gaetz,Gaetz,False
+271,Pramila Jayapal,U.S. House Washington District 7,Democratic Party,Federal,Congress,188.0,188.0,Jayapal,Washington,Craig Keller,Keller,False
+272,Qasim Rashid,U.S. House Virginia District 1,Democratic Party,Federal,Congress,29.0,29.0,Rashid,Virginia,Robert J Wittman,Wittman,False
+273,Raja Krishnamoorthi,U.S. House Illinois District 8,Democratic Party,Federal,Congress,195.0,195.0,Krishnamoorthi,Illinois,none,none,False
+274,Raphael Warnock,U.S. Senate Georgia,Democratic Party,Federal,State,698.0,698.0,Warnock,Georgia,Kelly Loeffler,Loeffler,False
+275,Raul Ruiz,U.S. House California District 36,Democratic Party,Federal,Congress,182.0,182.0,Ruiz,California,Erin Cruz,Cruz,False
+276,Ray Lenzi,U.S. House Illinois District 12,Democratic Party,Federal,Congress,32.0,32.0,Lenzi,Illinois,Mike Bost,Bost,False
+277,Renee Hoyos,U.S. House Tennessee District 2,Democratic Party,Federal,Congress,95.0,95.0,Hoyos,Tennessee,Tim Burchett,Burchett,False
+278,Rick Kennedy,U.S. House Texas District 17,Democratic Party,Federal,Congress,179.0,179.0,Kennedy,Texas,Pete Sessions,Sessions,False
+279,Rick Laib,U.S. House Illinois District 11,Republican Party,Federal,Congress,28.0,28.0,Laib,Illinois,Bill Foster,Foster,False
+280,Rik Mehta,U.S. Senate New Jersey,Republican Party,Federal,State,68.0,68.0,Mehta,New Jersey,Cory Booker,Booker,False
+281,Rishi Kumar,U.S. House California District 18,Democratic Party,Federal,Congress,181.0,181.0,Kumar,California,Anna G Eshoo,Eshoo,False
+282,Rita Hart,U.S. House Iowa District 2,Democratic Party,Federal,Congress,309.0,309.0,Hart,Iowa,Mariannette Miller-Meeks,Miller-Meeks,False
+283,Ritchie Torres,U.S. House New York District 15,Democratic Party,Federal,Congress,115.0,115.0,Torres,New York,Patrick Delices,Delices,True
+284,Ro Khanna,U.S. House California District 17,Democratic Party,Federal,Congress,180.0,180.0,Khanna,California,Ritesh Tandon,Tandon,False
+285,"Robert J. ""Rob"" Wittman",U.S. House Virginia District 1,Republican Party,Federal,Congress,38.0,38.0,Wittman,Virginia,Qasim Rashid,Rashid,False
+286,Roger Marshall,U.S. Senate Kansas,Republican Party,Federal,State,168.0,173.0,Marshall,Kansas,Barbara Bollier,Bollier,False
+287,Ron Estes,U.S. House Kansas District 4,Republican Party,Federal,Congress,98.0,98.0,Estes,Kansas,Laura Lombard,Lombard,False
+288,Ronald Wright,U.S. House Texas District 6,Republican Party,Federal,Congress,38.0,38.0,Wright,Texas,Stephen Daniel,Daniel,False
+289,Ronny L. Jackson,U.S. House Texas District 13,Republican Party,Federal,Congress,67.0,67.0,Jackson,Texas,Gus Trujillo,Trujillo,False
+290,Rosemary Becchi,U.S. House New Jersey District 11,Republican Party,Federal,Congress,39.0,39.0,Becchi,New Jersey,Mikie Sherrill,Sherrill,False
+291,Rosemary Becchi,U.S. House New Jersey District 7,Republican Party,Federal,Congress,34.0,34.0,Becchi,New Jersey,Mikie Sherrill,Sherrill,False
+292,Ruben Gallego,U.S. House Arizona District 7,Democratic Party,Federal,Congress,254.0,254.0,Gallego,Arizona,Joshua Barnett,Barnett,False
+293,Rudy Soto,U.S. House Idaho District 1,Democratic Party,Federal,Congress,68.0,68.0,Soto,Idaho,Russ Fulcher,Fulcher,False
+294,Salud Carbajal,U.S. House California District 24,Democratic Party,Federal,Congress,44.0,44.0,Carbajal,California,Andy Caldwell,Caldwell,False
+295,Sandy Smith,U.S. House North Carolina District 1,Republican Party,Federal,Congress,107.0,107.0,Smith,North Carolina,G K Butterfield,Butterfield,False
+296,Sara Gideon,U.S. Senate Maine,Democratic Party,Federal,State,2007.0,2007.0,Gideon,Maine,Susan Margaret Collins,Collins,False
+297,Sara Jacobs,U.S. House California District 53,Democratic Party,Federal,Congress,181.0,181.0,Jacobs,California,Georgette Gomez,Gomez,False
+298,Scott Fitzgerald,U.S. House Wisconsin District 5,Republican Party,Federal,Congress,55.0,55.0,Fitzgerald,Wisconsin,Tom Palzewicz,Palzewicz,False
+299,Scott Perry,U.S. House Pennsylvania District 10,Republican Party,Federal,Congress,21.0,21.0,Perry,Pennsylvania,Eugene A Depasquale,Depasquale,False
+300,Scott Peters,U.S. House California District 52,Democratic Party,Federal,Congress,208.0,208.0,Peters,California,Jim Debello,Debello,False
+301,Sean Casten,U.S. House Illinois District 6,Democratic Party,Federal,Congress,263.0,263.0,Casten,Illinois,Jeanne Ives,Ives,False
+302,Sean Parnell,U.S. House Pennsylvania District 17,Republican Party,Federal,Congress,126.0,126.0,Parnell,Pennsylvania,Conor J Lamb,Lamb,False
+303,Shahid Buttar,U.S. House California District 12,Democratic Party,Federal,Congress,157.0,157.0,Buttar,California,Nancy Pelosi,Pelosi,False
+304,Sharice Davids,U.S. House Kansas District 3,Democratic Party,Federal,Congress,167.0,167.0,Davids,Kansas,Amanda L Adkins,Adkins,False
+305,Shelley Moore Capito,U.S. Senate West Virginia,Republican Party,Federal,State,15.0,15.0,Capito,West Virginia,Paula Jean Swearengin,Swearengin,False
+306,Sima Ladjevardian,U.S. House Texas District 2,Democratic Party,Federal,Congress,5856.0,5857.0,Ladjevardian,Texas,Dan Crenshaw,Crenshaw,False
+307,Sri Preston Kulkarni,U.S. House Texas District 22,Democratic Party,Federal,Congress,2558.0,2570.0,Kulkarni,Texas,Troy Nehls,Nehls,False
+308,Stephanie Murphy,U.S. House Florida District 7,Democratic Party,Federal,Congress,986.0,986.0,Murphy,Florida,Leo Valentin,Valentin,False
+309,Stephanie Schmid,U.S. House New Jersey District 4,Democratic Party,Federal,Congress,22.0,22.0,Schmid,New Jersey,Christopher H Smith,Smith,False
+310,Stephen Daniel,U.S. House Texas District 6,Democratic Party,Federal,Congress,171.0,171.0,Daniel,Texas,Ron Wright,Wright,False
+311,Steve Bullock,U.S. Senate Montana,Democratic Party,Federal,State,85.0,85.0,Bullock,Montana,Steve Daines,Daines,False
+312,Steve Chabot,U.S. House Ohio District 1,Republican Party,Federal,Congress,109.0,109.0,Chabot,Ohio,Kate Schroder,Schroder,False
+313,Steve Daines,U.S. Senate Montana,Republican Party,Federal,State,198.0,198.0,Daines,Montana,Steve Bullock,Bullock,False
+314,Susan Wild,U.S. House Pennsylvania District 7,Democratic Party,Federal,Congress,279.0,279.0,Wild,Pennsylvania,Lisa Scheller,Scheller,False
+315,Susie Lee,U.S. House Nevada District 3,Democratic Party,Federal,Congress,376.0,376.0,Lee,Nevada,"Dan ""Big Dan"" Rodimer",Rodimer,False
+316,Suzanne Bonamici,U.S. House Oregon District 1,Democratic Party,Federal,Congress,107.0,107.0,Bonamici,Oregon,Christopher C Christensen,Christensen,False
+317,TJ Cox,U.S. House California District 21,Democratic Party,Federal,Congress,1319.0,1319.0,Cox,California,David G Valadao,Valadao,False
+318,Ted Lieu,U.S. House California District 33,Democratic Party,Federal,Congress,108.0,108.0,Lieu,California,James P Bradley,Bradley,False
+319,Tedra Cobb,U.S. House New York District 21,Democratic Party,Federal,Congress,507.0,507.0,Cobb,New York,Elise M Stefanik,Stefanik,False
+320,Teresa Leger Fernandez,U.S. House New Mexico District 3,Democratic Party,Federal,Congress,1042.0,1042.0,Fernandez,New Mexico,Alexis M Johnson,Johnson,False
+321,Terri Sewell,U.S. House Alabama District 7,Democratic Party,Federal,Congress,26.0,26.0,Sewell,Alabama,none,none,False
+322,Theresa Greenfield,U.S. Senate Iowa,Democratic Party,Federal,State,1994.0,1994.0,Greenfield,Iowa,Joni Ernst,Ernst,False
+323,Tiffany Shedd,U.S. House Arizona District 1,Republican Party,Federal,Congress,117.0,117.0,Shedd,Arizona,Tom O'Halleran,O'Halleran,False
+324,Tim Kelly,U.S. House Michigan District 5,Republican Party,Federal,Congress,12.0,12.0,Kelly,Michigan,Daniel T Kildee,Kildee,False
+325,Tina Smith,U.S. Senate Minnesota,Democratic Party,Federal,State,628.0,628.0,Smith,Minnesota,Jason Lewis,Lewis,False
+326,Tom Cotton,U.S. Senate Arkansas,Republican Party,Federal,State,37.0,37.0,Cotton,Arkansas,none,none,False
+327,Tom O'Halleran,U.S. House Arizona District 1,Democratic Party,Federal,Congress,461.0,461.0,O'Halleran,Arizona,Tiffany Shedd,Shedd,False
+328,Tom Tiffany,U.S. House Wisconsin District 7,Republican Party,Federal,Congress,103.0,103.0,Tiffany,Wisconsin,Tricia Zunker,Zunker,False
+329,Tony Gonzales,U.S. House Texas District 23,Republican Party,Federal,Congress,1295.0,1295.0,Gonzales,Texas,Gina Ortiz Jones,Jones,False
+330,Tracey Mann,U.S. House Kansas District 1,Republican Party,Federal,Congress,133.0,133.0,Mann,Kansas,Kali Barnett,Barnett,False
+331,Tracy Mitrano,U.S. House New York District 23,Democratic Party,Federal,Congress,241.0,241.0,Mitrano,New York,Tom Reed,Reed,False
+332,Troy Balderson,U.S. House Ohio District 12,Republican Party,Federal,Congress,32.0,32.0,Balderson,Ohio,Alaina Shearer,Shearer,False
+333,Troy Nehls,U.S. House Texas District 22,Republican Party,Federal,Congress,16.0,16.0,Nehls,Texas,Sri Preston Kulkarni,Kulkarni,False
+334,Vennia Francois,U.S. House Florida District 10,Republican Party,Federal,Congress,13.0,13.0,Francois,Florida,Val Butler Demings,Demings,True
+335,Vern Buchanan,U.S. House Florida District 16,Republican Party,Federal,Congress,47.0,47.0,Buchanan,Florida,Margaret Good,Good,False
+336,Victoria Spartz,U.S. House Indiana District 5,Republican Party,Federal,Congress,44.0,44.0,Spartz,Indiana,Christina Hale,Hale,False
+337,Warren Davidson,U.S. House Ohio District 8,Republican Party,Federal,Congress,24.0,24.0,Davidson,Ohio,Vanessa Enoch,Enoch,True
+338,Wendy Davis,U.S. House Texas District 21,Democratic Party,Federal,Congress,996.0,996.0,Davis,Texas,Chip Roy,Roy,False
+339,Wesley Hunt,U.S. House Texas District 7,Republican Party,Federal,Congress,146.0,146.0,Hunt,Texas,Lizzie Fletcher,Fletcher,False
+340,William O'Mara,U.S. House California District 42,Democratic Party,Federal,Congress,63.0,63.0,O'Mara,California,Ken Calvert,Calvert,False
+341,Xochitl Torres Small,U.S. House New Mexico District 2,Democratic Party,Federal,Congress,448.0,485.0,Small,New Mexico,Yvette Herrell,Herrell,False
+343,Young Kim,U.S. House California District 39,Republican Party,Federal,Congress,56.0,56.0,Kim,California,Gilbert Ray Cisneros Jr,Jr,False
+344,Yvette D. Clarke,U.S. House New York District 9,Democratic Party,Federal,Congress,180.0,180.0,Clarke,New York,Constantine Jean-Pierre,Jean-Pierre,True
+345,Yvette Herrell,U.S. House New Mexico District 2,Republican Party,Federal,Congress,23.0,23.0,Herrell,New Mexico,Xochitl Torres Small,Small,False
+346,Zoe Lofgren,U.S. House California District 19,Democratic Party,Federal,Congress,52.0,52.0,Lofgren,California,Justin James Aguilera,Aguilera,False
+347,,,,,,,,Tuberville,Alabama,Doug Jones,Jones,False
+348,,,,,,,,Sullivan,Alaska,Al Gross,Gross,False
+349,,,,,,,,Mcsally,Arizona,Mark Kelly,Kelly,False
+350,,,,,,,,Gardner,Colorado,John W. Hickenlooper,Hickenlooper,False
+351,,,,,,,,Witzke,Delaware,Christopher A. Coons,Coons,False
+352,,,,,,,,Perdue,Georgia,Jon Ossoff,Ossoff,False
+353,,,,,,,,Risch,Idaho,Paulette Jordan,Jordan,False
+354,,,,,,,,Curran,Illinois,Richard J. Durbin,Durbin,False
+355,,,,,,,,Ernst,Iowa,Theresa Greenfield,Greenfield,False
+356,,,,,,,,Mcconnell,Kentucky,Amy Mcgrath,Mcgrath,False
+357,,,,,,,,Mcgrath,Kentucky,Mitch Mcconnell,Mcconnell,False
+358,,,,,,,,Cassidy,Louisiana,Adrian Perkins,Perkins,False
+359,,,,,,,,Perkins,Louisiana,"""Bill"" Cassidy",Cassidy,False
+360,,,,,,,,Collins,Maine,Sara I. Gideon,Gideon,False
+361,,,,,,,,O'Conner,Massachusetts,Edward J. Markey,Markey,False
+362,,,,,,,,Lewis,Minnesota,Tina Smith,Smith,False
+363,,,,,,,,Hyde-Smith,Mississippi,Mike Espy,Espy,True
+364,,,,,,,,Ronchetti,New Mexico,Ben R. Lujan,Lujan,False
+365,,,,,,,,Tillis,North Carolina,Cal Cunningham,Cunningham,False
+366,,,,,,,,Inhofe,Oklahoma,Abby Broyles,Broyles,False
+367,,,,,,,,Perkins,Oregon,Jeff Merkley,Merkley,False
+368,,,,,,,,Waters,Rhode Island,John F. Reed,Reed,False
+369,,,,,,,,Rounds,South Dakota,Dan Ahlers,Ahlers,False
+370,,,,,,,,Gade,Virginia,Mark R. Warner,Warner,False
+371,,,,,,,,Swearengin,West Virginia,Shelley Moore Capito,Capito,False
+372,,,,,,,,Lummis,Wyoming,Merav Ben-David,Ben-David,False
+373,,,,,,,,Ben-David,Wyoming,Cynthia M. Lummis,Lummis,False
