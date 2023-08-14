@@ -1,5 +1,5 @@
 # Exploratory Analysis of 300k+ Political Emails
-## Serah Park, Mark Hopkins, Katie Keith, Matthew Tokeshi
+*Serah Park, Mark Hopkins, Katie Keith, Matthew Tokeshi*
 
 This summer at Williams, I conducted natural language processing research under my advisors, Prof. Mark Hopkins & Prof. Katie Keith, and in collaboration with political scientist Prof. Matt Tokeshi. We applied a variety of NLP tools to analyze and uncover a [dataset from Mathur et al.](https://journals.sagepub.com/doi/pdf/10.1177/20539517221145371) of over 300k emails from the 2020 U.S. election cycle. We are particularly interested in creating a tool to quantify how politicians may use racial dog-whistles or mention "crime" in their emails.
 
